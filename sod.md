@@ -1,18 +1,3 @@
-# SoD-Matrix : Segregation (or separation) of Duties (SoD) Matrix for CSIRTs, LEA and Judiciary (human readable version)
-
-This is the Segregation (or separation) of Duties (SoD) Matrix for CSIRTs, LEA and Judiciary.
-
-This SoD is also available as a [MISP taxonomy](https://github.com/MISP/misp-taxonomies). Compared to a "normal" taxonomy, the actor list from the ENISA SoD table (csirt, lea, judge, prosec) is added to the definition.  
-
-See [An overview on enhancing technical cooperation between CSIRTs and LE](https://www.enisa.europa.eu/publications/support-the-fight-against-cybercrime-tools-for-enhancing-cooperation-between-csirts-and-le)
-
-## Create the table
-
-Run the script machinetag2human.py with input machinetag.json
-```python3 machinetag2human.py machinetag.json > sod.md```
-
-# SoD Matrix
-
 
 # Segregation (or separation) of Duties (SoD) Matrix for CSIRTs, LEA and Judiciary (human readable version)
 
@@ -57,5 +42,3 @@ Generated from machine readable version. Please **DO NOT** edit this file direct
 | Post incident/crime | Judging who committed a crime |  |  | x  |  | Technical knowledge and knowledge of the legal framework |
 | Post incident/crime | Assessing incident damage and cost | x | x | x  | x | Evaluation skills |
 | Post incident/crime | Reviewing the response and update policies and procedures | x |  |   |  | Knowledge how to draft an incident response and procedures |
-
-

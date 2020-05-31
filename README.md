@@ -1,4 +1,4 @@
-# SoD-Matrix : Segregation (or separation) of Duties (SoD) Matrix for CSIRTs, LEA and Judiciary (human readable version)
+# SoD-Matrix : Segregation (or separation) of Duties (SoD) Matrix for CSIRTs, LEA and Judiciary
 
 This is the Segregation (or separation) of Duties (SoD) Matrix for CSIRTs, LEA and Judiciary.
 

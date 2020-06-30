@@ -34,6 +34,10 @@ Run the script machinetag2human.py with input machinetag.json
 
 # SoD Matrix
 
+**IMPORTANT**
+
+The below tasks and ticks in the SoD matrix are **indicative examples**.
+
 # Segregation (or separation) of Duties (SoD) Matrix for CSIRTs, LEA and Judiciary (human readable version)
 This is the Segregation (or separation) of Duties (SoD) Matrix for CSIRTs, LEA and Judiciary.
 This SoD is also available as a [MISP taxonomy](https://github.com/MISP/misp-taxonomies).

@@ -1,0 +1,30 @@
+
+{
+    "description": "SoD Matrix",
+    "icon": "map",
+    "kill_chain_order": {
+      "prior-to-incident-crime": [
+        "CSIRT",
+        "LEA",
+        "Judiciary",
+        "Prosecutors"
+      ],
+      "during-incident-crime": [
+        "CSIRT",
+        "LEA",
+        "Judiciary",
+        "Prosecutors"
+      ],
+      "post-incident-crime": [
+        "CSIRT",
+        "LEA",
+        "Judiciary",
+        "Prosecutors"
+      ]
+    },
+    "name": "SoD Matrix",
+    "namespace": "sod-matrix",
+    "type": "sod-matrix",
+    "uuid": "33c0c6f7-45e1-4edd-acde-ae3f3022444a",
+    "version": 1
+  }

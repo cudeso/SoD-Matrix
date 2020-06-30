@@ -1,0 +1,3329 @@
+{
+        "authors": [
+        "Koen Van Impe"
+        ],
+        "category": "sod-matrix",
+        "description": "SOD Matrix",
+        "name": "sod-matrix",
+        "source": "https://TEST",
+        "type": "sod-matrix",
+        "uuid": "869c4d2a-f915-477a-89dc-b3aff7890afa",
+        "values": [
+            
+
+    {
+    "description": "Problem-solving and critical thinking skills",
+        "meta": {
+        "kill_chain": [
+            "prior-to-incident-crime:CSIRT"
+        ]
+        },
+        "uuid": "534627f2-c80c-45f2-a1f7-1fdb9583a572",
+        "value": "R (CSIRT) : Delivering training"
+},
+        
+
+    {
+    "description": "Problem-solving and critical thinking skills",
+        "meta": {
+        "kill_chain": [
+            "prior-to-incident-crime:CSIRT"
+        ]
+        },
+        "uuid": "1cbc6ead-d838-4a69-a006-427c012be554",
+        "value": "C (CSIRT) : Delivering training"
+},
+        
+
+    {
+    "description": "Problem-solving and critical thinking skills",
+        "meta": {
+        "kill_chain": [
+            "prior-to-incident-crime:CSIRT"
+        ]
+        },
+        "uuid": "27290750-f073-41bb-a0d1-07b6a71cf9a3",
+        "value": "I (CSIRT) : Delivering training"
+},
+        
+
+    {
+    "description": "Problem-solving and critical thinking skills",
+        "meta": {
+        "kill_chain": [
+            "prior-to-incident-crime:CSIRT"
+        ]
+        },
+        "uuid": "149c9e7c-ae48-4ed5-8f7c-04e4167b91b5",
+        "value": "S (CSIRT) : Delivering training"
+},
+        
+
+    {
+    "description": "Problem-solving and critical thinking skills",
+        "meta": {
+        "kill_chain": [
+            "prior-to-incident-crime:LEA"
+        ]
+        },
+        "uuid": "14e1f8a4-ed1b-4fb4-a89a-2f9053b1a3de",
+        "value": "R (LEA) : Delivering training"
+},
+        
+
+    {
+    "description": "Problem-solving and critical thinking skills",
+        "meta": {
+        "kill_chain": [
+            "prior-to-incident-crime:LEA"
+        ]
+        },
+        "uuid": "f634d1c7-f3ba-48ea-8d19-af0aad31e680",
+        "value": "C (LEA) : Delivering training"
+},
+        
+
+    {
+    "description": "Problem-solving and critical thinking skills",
+        "meta": {
+        "kill_chain": [
+            "prior-to-incident-crime:LEA"
+        ]
+        },
+        "uuid": "18e157ad-e79e-45a8-bd50-9c196368014a",
+        "value": "I (LEA) : Delivering training"
+},
+        
+
+    {
+    "description": "Problem-solving and critical thinking skills",
+        "meta": {
+        "kill_chain": [
+            "prior-to-incident-crime:LEA"
+        ]
+        },
+        "uuid": "2b5f4d37-e66f-4c88-8f43-e45fb09a17d9",
+        "value": "S (LEA) : Delivering training"
+},
+        
+
+    {
+    "description": "Problem-solving and critical thinking skills",
+        "meta": {
+        "kill_chain": [
+            "prior-to-incident-crime:Judiciary"
+        ]
+        },
+        "uuid": "d85ccc99-6bb2-4c13-a99b-7a4c657e8d99",
+        "value": "R (Judiciary) : Delivering training"
+},
+        
+
+    {
+    "description": "Problem-solving and critical thinking skills",
+        "meta": {
+        "kill_chain": [
+            "prior-to-incident-crime:Judiciary"
+        ]
+        },
+        "uuid": "e37f0af7-5ed0-4d17-8edf-dbd03637510f",
+        "value": "C (Judiciary) : Delivering training"
+},
+        
+
+    {
+    "description": "Problem-solving and critical thinking skills",
+        "meta": {
+        "kill_chain": [
+            "prior-to-incident-crime:Judiciary"
+        ]
+        },
+        "uuid": "143c8c36-8f65-4028-bde5-28d0e9dae3a1",
+        "value": "I (Judiciary) : Delivering training"
+},
+        
+
+    {
+    "description": "Problem-solving and critical thinking skills",
+        "meta": {
+        "kill_chain": [
+            "prior-to-incident-crime:Judiciary"
+        ]
+        },
+        "uuid": "b4980069-662c-4250-8a11-d25cc08cf0bb",
+        "value": "S (Judiciary) : Delivering training"
+},
+        
+
+    {
+    "description": "Problem-solving and critical thinking skills",
+        "meta": {
+        "kill_chain": [
+            "prior-to-incident-crime:Prosecutors"
+        ]
+        },
+        "uuid": "f8b54761-adc3-4c54-949e-8514c284264d",
+        "value": "R (Prosecutors) : Delivering training"
+},
+        
+
+    {
+    "description": "Problem-solving and critical thinking skills",
+        "meta": {
+        "kill_chain": [
+            "prior-to-incident-crime:Prosecutors"
+        ]
+        },
+        "uuid": "d953d393-ea29-4946-a658-14698a448da4",
+        "value": "C (Prosecutors) : Delivering training"
+},
+        
+
+    {
+    "description": "Problem-solving and critical thinking skills",
+        "meta": {
+        "kill_chain": [
+            "prior-to-incident-crime:Prosecutors"
+        ]
+        },
+        "uuid": "4a258729-c47a-4b97-a29c-c1cb50639d40",
+        "value": "I (Prosecutors) : Delivering training"
+},
+        
+
+    {
+    "description": "Problem-solving and critical thinking skills",
+        "meta": {
+        "kill_chain": [
+            "prior-to-incident-crime:Prosecutors"
+        ]
+        },
+        "uuid": "1f4db729-b538-4a77-a67d-361b5a4fceb1",
+        "value": "S (Prosecutors) : Delivering training"
+},
+        
+
+    {
+    "description": "Problem-solving and critical thinking skills",
+        "meta": {
+        "kill_chain": [
+            "prior-to-incident-crime:CSIRT"
+        ]
+        },
+        "uuid": "ec2a3e0e-46fb-4906-b572-b5d34171c0fe",
+        "value": "R (CSIRT) : Participating in training"
+},
+        
+
+    {
+    "description": "Problem-solving and critical thinking skills",
+        "meta": {
+        "kill_chain": [
+            "prior-to-incident-crime:CSIRT"
+        ]
+        },
+        "uuid": "92898bd1-7a2a-43d4-8d4c-a4be259eb3d2",
+        "value": "C (CSIRT) : Participating in training"
+},
+        
+
+    {
+    "description": "Problem-solving and critical thinking skills",
+        "meta": {
+        "kill_chain": [
+            "prior-to-incident-crime:CSIRT"
+        ]
+        },
+        "uuid": "4e4a8a2d-4511-4871-9859-c3d67c5d7710",
+        "value": "I (CSIRT) : Participating in training"
+},
+        
+
+    {
+    "description": "Problem-solving and critical thinking skills",
+        "meta": {
+        "kill_chain": [
+            "prior-to-incident-crime:CSIRT"
+        ]
+        },
+        "uuid": "ce4aba36-50a8-45f4-a6b9-14419a399c59",
+        "value": "S (CSIRT) : Participating in training"
+},
+        
+
+    {
+    "description": "Problem-solving and critical thinking skills",
+        "meta": {
+        "kill_chain": [
+            "prior-to-incident-crime:LEA"
+        ]
+        },
+        "uuid": "57ac47ec-ae79-40c6-a8be-f02d1e99a2e7",
+        "value": "R (LEA) : Participating in training"
+},
+        
+
+    {
+    "description": "Problem-solving and critical thinking skills",
+        "meta": {
+        "kill_chain": [
+            "prior-to-incident-crime:LEA"
+        ]
+        },
+        "uuid": "2449c08f-6fa1-4c62-9839-0b0bac17e6a3",
+        "value": "C (LEA) : Participating in training"
+},
+        
+
+    {
+    "description": "Problem-solving and critical thinking skills",
+        "meta": {
+        "kill_chain": [
+            "prior-to-incident-crime:LEA"
+        ]
+        },
+        "uuid": "b611c5b8-4ca9-414d-9d4f-2f5a1cc48f6d",
+        "value": "I (LEA) : Participating in training"
+},
+        
+
+    {
+    "description": "Problem-solving and critical thinking skills",
+        "meta": {
+        "kill_chain": [
+            "prior-to-incident-crime:LEA"
+        ]
+        },
+        "uuid": "4f978740-97a7-4045-821c-a2c8096d8a35",
+        "value": "S (LEA) : Participating in training"
+},
+        
+
+    {
+    "description": "Problem-solving and critical thinking skills",
+        "meta": {
+        "kill_chain": [
+            "prior-to-incident-crime:Judiciary"
+        ]
+        },
+        "uuid": "36281be8-d18a-44b3-bdfa-601e1d7faa74",
+        "value": "R (Judiciary) : Participating in training"
+},
+        
+
+    {
+    "description": "Problem-solving and critical thinking skills",
+        "meta": {
+        "kill_chain": [
+            "prior-to-incident-crime:Judiciary"
+        ]
+        },
+        "uuid": "c7d9a550-c3fe-40e2-ac4d-f09f5d493547",
+        "value": "C (Judiciary) : Participating in training"
+},
+        
+
+    {
+    "description": "Problem-solving and critical thinking skills",
+        "meta": {
+        "kill_chain": [
+            "prior-to-incident-crime:Judiciary"
+        ]
+        },
+        "uuid": "a99577f9-4756-4d04-9482-ad3d40de9167",
+        "value": "I (Judiciary) : Participating in training"
+},
+        
+
+    {
+    "description": "Problem-solving and critical thinking skills",
+        "meta": {
+        "kill_chain": [
+            "prior-to-incident-crime:Judiciary"
+        ]
+        },
+        "uuid": "398b797f-4dee-4a16-822b-74bd5b6f1c68",
+        "value": "S (Judiciary) : Participating in training"
+},
+        
+
+    {
+    "description": "Problem-solving and critical thinking skills",
+        "meta": {
+        "kill_chain": [
+            "prior-to-incident-crime:Prosecutors"
+        ]
+        },
+        "uuid": "2ac777b5-0c42-4541-95f7-ba298e5881e6",
+        "value": "R (Prosecutors) : Participating in training"
+},
+        
+
+    {
+    "description": "Problem-solving and critical thinking skills",
+        "meta": {
+        "kill_chain": [
+            "prior-to-incident-crime:Prosecutors"
+        ]
+        },
+        "uuid": "a119a7b4-822e-4116-844d-59c98deef648",
+        "value": "C (Prosecutors) : Participating in training"
+},
+        
+
+    {
+    "description": "Problem-solving and critical thinking skills",
+        "meta": {
+        "kill_chain": [
+            "prior-to-incident-crime:Prosecutors"
+        ]
+        },
+        "uuid": "3692b8a2-74ae-40d3-bbaa-504c06a84452",
+        "value": "I (Prosecutors) : Participating in training"
+},
+        
+
+    {
+    "description": "Problem-solving and critical thinking skills",
+        "meta": {
+        "kill_chain": [
+            "prior-to-incident-crime:Prosecutors"
+        ]
+        },
+        "uuid": "81afaf13-1d95-451c-a90c-bcab1e6425b1",
+        "value": "S (Prosecutors) : Participating in training"
+},
+        
+
+    {
+    "description": "Knowledge of cyber threat intelligence landscape",
+        "meta": {
+        "kill_chain": [
+            "prior-to-incident-crime:CSIRT"
+        ]
+        },
+        "uuid": "d7a4248e-00fc-40a8-8973-8402e9afee40",
+        "value": "R (CSIRT) : Collecting cyber threat intelligence"
+},
+        
+
+    {
+    "description": "Knowledge of cyber threat intelligence landscape",
+        "meta": {
+        "kill_chain": [
+            "prior-to-incident-crime:CSIRT"
+        ]
+        },
+        "uuid": "eddccb44-e460-4b97-be6d-726e25aa2bfb",
+        "value": "C (CSIRT) : Collecting cyber threat intelligence"
+},
+        
+
+    {
+    "description": "Knowledge of cyber threat intelligence landscape",
+        "meta": {
+        "kill_chain": [
+            "prior-to-incident-crime:CSIRT"
+        ]
+        },
+        "uuid": "7de8b4d1-92bd-4b43-bf0b-305608af8959",
+        "value": "I (CSIRT) : Collecting cyber threat intelligence"
+},
+        
+
+    {
+    "description": "Knowledge of cyber threat intelligence landscape",
+        "meta": {
+        "kill_chain": [
+            "prior-to-incident-crime:CSIRT"
+        ]
+        },
+        "uuid": "d5a1a7fd-f1c2-4b0b-8340-e1d3438fcca1",
+        "value": "S (CSIRT) : Collecting cyber threat intelligence"
+},
+        
+
+    {
+    "description": "Knowledge of cyber threat intelligence landscape",
+        "meta": {
+        "kill_chain": [
+            "prior-to-incident-crime:LEA"
+        ]
+        },
+        "uuid": "612b2cc9-d847-458a-bd99-36907f12bd67",
+        "value": "R (LEA) : Collecting cyber threat intelligence"
+},
+        
+
+    {
+    "description": "Knowledge of cyber threat intelligence landscape",
+        "meta": {
+        "kill_chain": [
+            "prior-to-incident-crime:LEA"
+        ]
+        },
+        "uuid": "33b319c6-a2e6-41ff-83ba-6b262e496222",
+        "value": "C (LEA) : Collecting cyber threat intelligence"
+},
+        
+
+    {
+    "description": "Knowledge of cyber threat intelligence landscape",
+        "meta": {
+        "kill_chain": [
+            "prior-to-incident-crime:LEA"
+        ]
+        },
+        "uuid": "41f6afce-dccc-4b1e-90d3-e5666c4b33fb",
+        "value": "I (LEA) : Collecting cyber threat intelligence"
+},
+        
+
+    {
+    "description": "Knowledge of cyber threat intelligence landscape",
+        "meta": {
+        "kill_chain": [
+            "prior-to-incident-crime:LEA"
+        ]
+        },
+        "uuid": "64dd38fd-5cc1-4e36-a497-e4bf4b615513",
+        "value": "S (LEA) : Collecting cyber threat intelligence"
+},
+        
+
+    {
+    "description": "Knowledge of cyber threat intelligence landscape",
+        "meta": {
+        "kill_chain": [
+            "prior-to-incident-crime:Prosecutors"
+        ]
+        },
+        "uuid": "0da60c11-4d57-4c67-8dc9-3336bf0c50e0",
+        "value": "R (Prosecutors) : Collecting cyber threat intelligence"
+},
+        
+
+    {
+    "description": "Knowledge of cyber threat intelligence landscape",
+        "meta": {
+        "kill_chain": [
+            "prior-to-incident-crime:Prosecutors"
+        ]
+        },
+        "uuid": "984d8248-0d73-408e-90f6-f6dbdf5afa1e",
+        "value": "C (Prosecutors) : Collecting cyber threat intelligence"
+},
+        
+
+    {
+    "description": "Knowledge of cyber threat intelligence landscape",
+        "meta": {
+        "kill_chain": [
+            "prior-to-incident-crime:Prosecutors"
+        ]
+        },
+        "uuid": "92391c14-d2cb-48bd-a8c7-9d170e4d6991",
+        "value": "I (Prosecutors) : Collecting cyber threat intelligence"
+},
+        
+
+    {
+    "description": "Knowledge of cyber threat intelligence landscape",
+        "meta": {
+        "kill_chain": [
+            "prior-to-incident-crime:Prosecutors"
+        ]
+        },
+        "uuid": "fa55097e-da20-47ba-8aa2-601d5c82102a",
+        "value": "S (Prosecutors) : Collecting cyber threat intelligence"
+},
+        
+
+    {
+    "description": "Development and distribution of tools for preventive and reactive mitigation",
+        "meta": {
+        "kill_chain": [
+            "prior-to-incident-crime:CSIRT"
+        ]
+        },
+        "uuid": "faf1e40c-7a75-4739-be50-d733aa655c94",
+        "value": "R (CSIRT) : Analysis of vulnerabilities and threats"
+},
+        
+
+    {
+    "description": "Development and distribution of tools for preventive and reactive mitigation",
+        "meta": {
+        "kill_chain": [
+            "prior-to-incident-crime:CSIRT"
+        ]
+        },
+        "uuid": "08c56590-a5e5-4b73-8560-cf8c28070b71",
+        "value": "C (CSIRT) : Analysis of vulnerabilities and threats"
+},
+        
+
+    {
+    "description": "Development and distribution of tools for preventive and reactive mitigation",
+        "meta": {
+        "kill_chain": [
+            "prior-to-incident-crime:CSIRT"
+        ]
+        },
+        "uuid": "c29d5809-e49f-40ba-91fa-fbd301910318",
+        "value": "I (CSIRT) : Analysis of vulnerabilities and threats"
+},
+        
+
+    {
+    "description": "Development and distribution of tools for preventive and reactive mitigation",
+        "meta": {
+        "kill_chain": [
+            "prior-to-incident-crime:CSIRT"
+        ]
+        },
+        "uuid": "67151151-02fd-40db-83c3-922b6e56d553",
+        "value": "S (CSIRT) : Analysis of vulnerabilities and threats"
+},
+        
+
+    {
+    "description": "Development and distribution of tools for preventive and reactive mitigation",
+        "meta": {
+        "kill_chain": [
+            "prior-to-incident-crime:LEA"
+        ]
+        },
+        "uuid": "b755cc22-f32c-4402-8dcd-a447d9598fc2",
+        "value": "R (LEA) : Analysis of vulnerabilities and threats"
+},
+        
+
+    {
+    "description": "Development and distribution of tools for preventive and reactive mitigation",
+        "meta": {
+        "kill_chain": [
+            "prior-to-incident-crime:LEA"
+        ]
+        },
+        "uuid": "c047ce38-833b-4315-ab29-dc3181649785",
+        "value": "C (LEA) : Analysis of vulnerabilities and threats"
+},
+        
+
+    {
+    "description": "Development and distribution of tools for preventive and reactive mitigation",
+        "meta": {
+        "kill_chain": [
+            "prior-to-incident-crime:LEA"
+        ]
+        },
+        "uuid": "00dbd343-7609-438d-bdb2-418a0f722d61",
+        "value": "I (LEA) : Analysis of vulnerabilities and threats"
+},
+        
+
+    {
+    "description": "Development and distribution of tools for preventive and reactive mitigation",
+        "meta": {
+        "kill_chain": [
+            "prior-to-incident-crime:LEA"
+        ]
+        },
+        "uuid": "855fd60a-6fe1-4408-9464-bc3fad1a8517",
+        "value": "S (LEA) : Analysis of vulnerabilities and threats"
+},
+        
+
+    {
+    "description": "Development and distribution of tools for preventive and reactive mitigation",
+        "meta": {
+        "kill_chain": [
+            "prior-to-incident-crime:Prosecutors"
+        ]
+        },
+        "uuid": "ee71155d-47dd-429f-bf6b-15ae35496fd0",
+        "value": "R (Prosecutors) : Analysis of vulnerabilities and threats"
+},
+        
+
+    {
+    "description": "Development and distribution of tools for preventive and reactive mitigation",
+        "meta": {
+        "kill_chain": [
+            "prior-to-incident-crime:Prosecutors"
+        ]
+        },
+        "uuid": "e8225dfa-f03a-4dd8-ac88-38161f551d75",
+        "value": "C (Prosecutors) : Analysis of vulnerabilities and threats"
+},
+        
+
+    {
+    "description": "Development and distribution of tools for preventive and reactive mitigation",
+        "meta": {
+        "kill_chain": [
+            "prior-to-incident-crime:Prosecutors"
+        ]
+        },
+        "uuid": "9650ce33-d242-4c07-ad15-8a847b0e23f3",
+        "value": "I (Prosecutors) : Analysis of vulnerabilities and threats"
+},
+        
+
+    {
+    "description": "Development and distribution of tools for preventive and reactive mitigation",
+        "meta": {
+        "kill_chain": [
+            "prior-to-incident-crime:Prosecutors"
+        ]
+        },
+        "uuid": "50fc8267-4976-4ef8-a721-cf5d39c8638b",
+        "value": "S (Prosecutors) : Analysis of vulnerabilities and threats"
+},
+        
+
+    {
+    "description": "Dealing with specific types of threats and vulnerabilities",
+        "meta": {
+        "kill_chain": [
+            "prior-to-incident-crime:CSIRT"
+        ]
+        },
+        "uuid": "be12b2fb-f222-4118-9ce8-39f7539b753e",
+        "value": "R (CSIRT) : Issuing recommendations for new vulnerabilities and threats"
+},
+        
+
+    {
+    "description": "Dealing with specific types of threats and vulnerabilities",
+        "meta": {
+        "kill_chain": [
+            "prior-to-incident-crime:CSIRT"
+        ]
+        },
+        "uuid": "c87a6511-fa5b-44f4-86bc-4561f6842fc4",
+        "value": "C (CSIRT) : Issuing recommendations for new vulnerabilities and threats"
+},
+        
+
+    {
+    "description": "Dealing with specific types of threats and vulnerabilities",
+        "meta": {
+        "kill_chain": [
+            "prior-to-incident-crime:CSIRT"
+        ]
+        },
+        "uuid": "8887807f-11cf-442c-a5ed-8e78cf7f6de6",
+        "value": "I (CSIRT) : Issuing recommendations for new vulnerabilities and threats"
+},
+        
+
+    {
+    "description": "Dealing with specific types of threats and vulnerabilities",
+        "meta": {
+        "kill_chain": [
+            "prior-to-incident-crime:CSIRT"
+        ]
+        },
+        "uuid": "886e5333-5e3a-45da-9426-5f1b5ea81efa",
+        "value": "S (CSIRT) : Issuing recommendations for new vulnerabilities and threats"
+},
+        
+
+    {
+    "description": "Raising awareness on preventive measures against cybercrime",
+        "meta": {
+        "kill_chain": [
+            "prior-to-incident-crime:CSIRT"
+        ]
+        },
+        "uuid": "311eec14-d5d2-4480-b0f6-f36f2273d671",
+        "value": "R (CSIRT) : Advising potential victims on preventive measures against cybercrime"
+},
+        
+
+    {
+    "description": "Raising awareness on preventive measures against cybercrime",
+        "meta": {
+        "kill_chain": [
+            "prior-to-incident-crime:CSIRT"
+        ]
+        },
+        "uuid": "cbb1943b-993e-4694-8ad0-43bbed100e61",
+        "value": "C (CSIRT) : Advising potential victims on preventive measures against cybercrime"
+},
+        
+
+    {
+    "description": "Raising awareness on preventive measures against cybercrime",
+        "meta": {
+        "kill_chain": [
+            "prior-to-incident-crime:CSIRT"
+        ]
+        },
+        "uuid": "fd7338cc-9eb8-4d96-bae0-302b8ec8d990",
+        "value": "I (CSIRT) : Advising potential victims on preventive measures against cybercrime"
+},
+        
+
+    {
+    "description": "Raising awareness on preventive measures against cybercrime",
+        "meta": {
+        "kill_chain": [
+            "prior-to-incident-crime:CSIRT"
+        ]
+        },
+        "uuid": "2bc8b4fc-0f5a-4834-8e2c-1da227edc474",
+        "value": "S (CSIRT) : Advising potential victims on preventive measures against cybercrime"
+},
+        
+
+    {
+    "description": "Raising awareness on preventive measures against cybercrime",
+        "meta": {
+        "kill_chain": [
+            "prior-to-incident-crime:LEA"
+        ]
+        },
+        "uuid": "bb9b1c02-2a4c-4080-a8c2-ffcd673d167a",
+        "value": "R (LEA) : Advising potential victims on preventive measures against cybercrime"
+},
+        
+
+    {
+    "description": "Raising awareness on preventive measures against cybercrime",
+        "meta": {
+        "kill_chain": [
+            "prior-to-incident-crime:LEA"
+        ]
+        },
+        "uuid": "73ca5396-1299-480e-9873-9cd342441e4e",
+        "value": "C (LEA) : Advising potential victims on preventive measures against cybercrime"
+},
+        
+
+    {
+    "description": "Raising awareness on preventive measures against cybercrime",
+        "meta": {
+        "kill_chain": [
+            "prior-to-incident-crime:LEA"
+        ]
+        },
+        "uuid": "0951a1f2-d266-46db-9816-f44fcb6b9f79",
+        "value": "I (LEA) : Advising potential victims on preventive measures against cybercrime"
+},
+        
+
+    {
+    "description": "Raising awareness on preventive measures against cybercrime",
+        "meta": {
+        "kill_chain": [
+            "prior-to-incident-crime:LEA"
+        ]
+        },
+        "uuid": "5c86cd7c-1fdc-4e39-aadc-01cc92774789",
+        "value": "S (LEA) : Advising potential victims on preventive measures against cybercrime"
+},
+        
+
+    {
+    "description": "Digital investigations; forensics tools; penetration testing; vulnerability scanning; flow analysis",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:CSIRT"
+        ]
+        },
+        "uuid": "275bec24-b55b-40c0-b745-3daec993626e",
+        "value": "R (CSIRT) : Discovery of the cyber security incident/crime"
+},
+        
+
+    {
+    "description": "Digital investigations; forensics tools; penetration testing; vulnerability scanning; flow analysis",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:CSIRT"
+        ]
+        },
+        "uuid": "1c5aa62f-2d10-4dff-a673-1507013088c9",
+        "value": "C (CSIRT) : Discovery of the cyber security incident/crime"
+},
+        
+
+    {
+    "description": "Digital investigations; forensics tools; penetration testing; vulnerability scanning; flow analysis",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:CSIRT"
+        ]
+        },
+        "uuid": "defad67e-021b-4dae-8002-3c3df38a32de",
+        "value": "I (CSIRT) : Discovery of the cyber security incident/crime"
+},
+        
+
+    {
+    "description": "Digital investigations; forensics tools; penetration testing; vulnerability scanning; flow analysis",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:CSIRT"
+        ]
+        },
+        "uuid": "69c14ad0-3e17-4a6d-8a7a-58068353464a",
+        "value": "S (CSIRT) : Discovery of the cyber security incident/crime"
+},
+        
+
+    {
+    "description": "Digital investigations; forensics tools; penetration testing; vulnerability scanning; flow analysis",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:LEA"
+        ]
+        },
+        "uuid": "719107b4-7847-42f1-9844-5bdd218f8c92",
+        "value": "R (LEA) : Discovery of the cyber security incident/crime"
+},
+        
+
+    {
+    "description": "Digital investigations; forensics tools; penetration testing; vulnerability scanning; flow analysis",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:LEA"
+        ]
+        },
+        "uuid": "b8932879-64e8-4e0a-b1be-8c65bc8579b0",
+        "value": "C (LEA) : Discovery of the cyber security incident/crime"
+},
+        
+
+    {
+    "description": "Digital investigations; forensics tools; penetration testing; vulnerability scanning; flow analysis",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:LEA"
+        ]
+        },
+        "uuid": "6ede4c01-8825-474c-b091-672bdba48a8f",
+        "value": "I (LEA) : Discovery of the cyber security incident/crime"
+},
+        
+
+    {
+    "description": "Digital investigations; forensics tools; penetration testing; vulnerability scanning; flow analysis",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:LEA"
+        ]
+        },
+        "uuid": "d5554649-f1f2-4107-8786-44bc7a0e834a",
+        "value": "S (LEA) : Discovery of the cyber security incident/crime"
+},
+        
+
+    {
+    "description": "Incident and crime classification and identification",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:CSIRT"
+        ]
+        },
+        "uuid": "61dd5a8b-fcad-4285-91f4-b9d592ed1545",
+        "value": "R (CSIRT) : Identification and classification of the cyber security incident/crime"
+},
+        
+
+    {
+    "description": "Incident and crime classification and identification",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:CSIRT"
+        ]
+        },
+        "uuid": "d2d8b3c1-3c63-49db-bfa0-cb4eefde2958",
+        "value": "C (CSIRT) : Identification and classification of the cyber security incident/crime"
+},
+        
+
+    {
+    "description": "Incident and crime classification and identification",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:CSIRT"
+        ]
+        },
+        "uuid": "1853f0ad-f990-4762-85d1-9d6fa132efd8",
+        "value": "I (CSIRT) : Identification and classification of the cyber security incident/crime"
+},
+        
+
+    {
+    "description": "Incident and crime classification and identification",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:CSIRT"
+        ]
+        },
+        "uuid": "d7d0dae2-2806-4cb2-b203-ee70a9c68ade",
+        "value": "S (CSIRT) : Identification and classification of the cyber security incident/crime"
+},
+        
+
+    {
+    "description": "Incident and crime classification and identification",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:LEA"
+        ]
+        },
+        "uuid": "3f5f14fa-2891-41f7-9861-ba4244bff364",
+        "value": "R (LEA) : Identification and classification of the cyber security incident/crime"
+},
+        
+
+    {
+    "description": "Incident and crime classification and identification",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:LEA"
+        ]
+        },
+        "uuid": "bd07606c-eed6-4b47-a182-a2c5118eaeeb",
+        "value": "C (LEA) : Identification and classification of the cyber security incident/crime"
+},
+        
+
+    {
+    "description": "Incident and crime classification and identification",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:LEA"
+        ]
+        },
+        "uuid": "7ce3798e-0873-4e60-bfbf-c16b24d19fbd",
+        "value": "I (LEA) : Identification and classification of the cyber security incident/crime"
+},
+        
+
+    {
+    "description": "Incident and crime classification and identification",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:LEA"
+        ]
+        },
+        "uuid": "26f3ef0b-2a7c-4677-8b6c-b3f38b6e3041",
+        "value": "S (LEA) : Identification and classification of the cyber security incident/crime"
+},
+        
+
+    {
+    "description": "Incident and crime classification and identification",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:Prosecutors"
+        ]
+        },
+        "uuid": "ffcb089d-1c85-44ef-b7aa-4b4ac4f20518",
+        "value": "R (Prosecutors) : Identification and classification of the cyber security incident/crime"
+},
+        
+
+    {
+    "description": "Incident and crime classification and identification",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:Prosecutors"
+        ]
+        },
+        "uuid": "92b19e79-a404-44fe-afe2-96b2466dfbbd",
+        "value": "C (Prosecutors) : Identification and classification of the cyber security incident/crime"
+},
+        
+
+    {
+    "description": "Incident and crime classification and identification",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:Prosecutors"
+        ]
+        },
+        "uuid": "69a5cba1-ff6b-4900-b2b2-d1a435eca029",
+        "value": "I (Prosecutors) : Identification and classification of the cyber security incident/crime"
+},
+        
+
+    {
+    "description": "Incident and crime classification and identification",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:Prosecutors"
+        ]
+        },
+        "uuid": "ec640c75-f0a0-4d12-9c82-9b51276850d5",
+        "value": "S (Prosecutors) : Identification and classification of the cyber security incident/crime"
+},
+        
+
+    {
+    "description": "Knowledge of cyber threats and incident response procedures",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:CSIRT"
+        ]
+        },
+        "uuid": "d94f1b70-6ff3-4254-a865-90a5b43913a6",
+        "value": "R (CSIRT) : Identify the type and severity of the compromise"
+},
+        
+
+    {
+    "description": "Knowledge of cyber threats and incident response procedures",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:CSIRT"
+        ]
+        },
+        "uuid": "c808c409-ce8a-49af-8dea-68825bece501",
+        "value": "C (CSIRT) : Identify the type and severity of the compromise"
+},
+        
+
+    {
+    "description": "Knowledge of cyber threats and incident response procedures",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:CSIRT"
+        ]
+        },
+        "uuid": "cb72c41c-8c1c-48fa-9d39-db3cf8e71158",
+        "value": "I (CSIRT) : Identify the type and severity of the compromise"
+},
+        
+
+    {
+    "description": "Knowledge of cyber threats and incident response procedures",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:CSIRT"
+        ]
+        },
+        "uuid": "15b323e1-c74b-44a4-b625-2832c58a4096",
+        "value": "S (CSIRT) : Identify the type and severity of the compromise"
+},
+        
+
+    {
+    "description": "Knowledge of cyber threats and incident response procedures",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:LEA"
+        ]
+        },
+        "uuid": "ec11f857-e35a-4fb5-baf3-ff2f05e19dd4",
+        "value": "R (LEA) : Identify the type and severity of the compromise"
+},
+        
+
+    {
+    "description": "Knowledge of cyber threats and incident response procedures",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:LEA"
+        ]
+        },
+        "uuid": "b748ff80-0cd4-47af-bba6-62fc5908e571",
+        "value": "C (LEA) : Identify the type and severity of the compromise"
+},
+        
+
+    {
+    "description": "Knowledge of cyber threats and incident response procedures",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:LEA"
+        ]
+        },
+        "uuid": "b9285ca8-a271-4ad3-9c8a-85381d734725",
+        "value": "I (LEA) : Identify the type and severity of the compromise"
+},
+        
+
+    {
+    "description": "Knowledge of cyber threats and incident response procedures",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:LEA"
+        ]
+        },
+        "uuid": "1e089b10-fdf2-46e2-9c52-fc159292f1ab",
+        "value": "S (LEA) : Identify the type and severity of the compromise"
+},
+        
+
+    {
+    "description": "Knowledge of cyber threats and incident response procedures",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:Prosecutors"
+        ]
+        },
+        "uuid": "2da0f81a-b3a1-442f-94f3-84e87bd97823",
+        "value": "R (Prosecutors) : Identify the type and severity of the compromise"
+},
+        
+
+    {
+    "description": "Knowledge of cyber threats and incident response procedures",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:Prosecutors"
+        ]
+        },
+        "uuid": "8d3b37b1-9bc7-42c0-95a1-0e0d0b820523",
+        "value": "C (Prosecutors) : Identify the type and severity of the compromise"
+},
+        
+
+    {
+    "description": "Knowledge of cyber threats and incident response procedures",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:Prosecutors"
+        ]
+        },
+        "uuid": "c73fc8ee-bc96-49f2-a30e-c86d678ff1be",
+        "value": "I (Prosecutors) : Identify the type and severity of the compromise"
+},
+        
+
+    {
+    "description": "Knowledge of cyber threats and incident response procedures",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:Prosecutors"
+        ]
+        },
+        "uuid": "ef4bc8a2-d146-4a5f-bfed-ae29aeb1297e",
+        "value": "S (Prosecutors) : Identify the type and severity of the compromise"
+},
+        
+
+    {
+    "description": "Knowledge of what kind of data to collect; organisation skills",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:CSIRT"
+        ]
+        },
+        "uuid": "35f5b500-312f-412b-931b-8b62b77b8e75",
+        "value": "R (CSIRT) : Evidence collection"
+},
+        
+
+    {
+    "description": "Knowledge of what kind of data to collect; organisation skills",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:CSIRT"
+        ]
+        },
+        "uuid": "ce58fdcf-9d63-4594-b941-62f12292192d",
+        "value": "C (CSIRT) : Evidence collection"
+},
+        
+
+    {
+    "description": "Knowledge of what kind of data to collect; organisation skills",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:CSIRT"
+        ]
+        },
+        "uuid": "6240c18d-c966-4f1a-bdf8-c37087ec0246",
+        "value": "I (CSIRT) : Evidence collection"
+},
+        
+
+    {
+    "description": "Knowledge of what kind of data to collect; organisation skills",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:CSIRT"
+        ]
+        },
+        "uuid": "9bda716e-5ee1-4d11-9426-6793eb996564",
+        "value": "S (CSIRT) : Evidence collection"
+},
+        
+
+    {
+    "description": "Knowledge of what kind of data to collect; organisation skills",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:LEA"
+        ]
+        },
+        "uuid": "5ab8fe21-f886-43c0-9cc2-d33094d30466",
+        "value": "R (LEA) : Evidence collection"
+},
+        
+
+    {
+    "description": "Knowledge of what kind of data to collect; organisation skills",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:LEA"
+        ]
+        },
+        "uuid": "6d8774e5-6c38-47c4-aea6-23e210cc4211",
+        "value": "C (LEA) : Evidence collection"
+},
+        
+
+    {
+    "description": "Knowledge of what kind of data to collect; organisation skills",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:LEA"
+        ]
+        },
+        "uuid": "0ab11109-793c-45eb-82f5-36f5f8f227e8",
+        "value": "I (LEA) : Evidence collection"
+},
+        
+
+    {
+    "description": "Knowledge of what kind of data to collect; organisation skills",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:LEA"
+        ]
+        },
+        "uuid": "3ebe3163-ea9c-4697-8f58-6aee42338ee0",
+        "value": "S (LEA) : Evidence collection"
+},
+        
+
+    {
+    "description": "Knowledge of what kind of data to collect; organisation skills",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:Prosecutors"
+        ]
+        },
+        "uuid": "c14e3517-2092-486e-b075-abfade276f39",
+        "value": "R (Prosecutors) : Evidence collection"
+},
+        
+
+    {
+    "description": "Knowledge of what kind of data to collect; organisation skills",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:Prosecutors"
+        ]
+        },
+        "uuid": "01b7b730-d713-427c-bc27-e2639c5d252d",
+        "value": "C (Prosecutors) : Evidence collection"
+},
+        
+
+    {
+    "description": "Knowledge of what kind of data to collect; organisation skills",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:Prosecutors"
+        ]
+        },
+        "uuid": "11d338b4-74ae-4ce1-bc3e-bc6fd3c1c1c0",
+        "value": "I (Prosecutors) : Evidence collection"
+},
+        
+
+    {
+    "description": "Knowledge of what kind of data to collect; organisation skills",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:Prosecutors"
+        ]
+        },
+        "uuid": "e33fb2b4-f36b-4f9c-94c9-aacd6a4ae181",
+        "value": "S (Prosecutors) : Evidence collection"
+},
+        
+
+    {
+    "description": "Technical skills",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:CSIRT"
+        ]
+        },
+        "uuid": "a6c81533-e3ac-45ea-aed1-b36d159004c5",
+        "value": "R (CSIRT) : Providing technical expertise"
+},
+        
+
+    {
+    "description": "Technical skills",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:CSIRT"
+        ]
+        },
+        "uuid": "00642271-3259-4bae-a156-45116327eea8",
+        "value": "C (CSIRT) : Providing technical expertise"
+},
+        
+
+    {
+    "description": "Technical skills",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:CSIRT"
+        ]
+        },
+        "uuid": "c6606c18-ab5f-40e8-ba93-41aeb7549835",
+        "value": "I (CSIRT) : Providing technical expertise"
+},
+        
+
+    {
+    "description": "Technical skills",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:CSIRT"
+        ]
+        },
+        "uuid": "d6d0f868-2c18-481d-83e3-fd9ddc129f1e",
+        "value": "S (CSIRT) : Providing technical expertise"
+},
+        
+
+    {
+    "description": "Digital investigations; forensics tools;",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:CSIRT"
+        ]
+        },
+        "uuid": "de62e77d-f7d6-4fb1-aef6-c5b6fe232a3b",
+        "value": "R (CSIRT) : Preserving the evidence that may be crucial for the detection of a crime in a criminal trial"
+},
+        
+
+    {
+    "description": "Digital investigations; forensics tools;",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:CSIRT"
+        ]
+        },
+        "uuid": "3b25efd5-18d3-44cf-8902-01228441d03a",
+        "value": "C (CSIRT) : Preserving the evidence that may be crucial for the detection of a crime in a criminal trial"
+},
+        
+
+    {
+    "description": "Digital investigations; forensics tools;",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:CSIRT"
+        ]
+        },
+        "uuid": "4bb06f9d-6e11-4a80-9b7d-1dc20b3994fe",
+        "value": "I (CSIRT) : Preserving the evidence that may be crucial for the detection of a crime in a criminal trial"
+},
+        
+
+    {
+    "description": "Digital investigations; forensics tools;",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:CSIRT"
+        ]
+        },
+        "uuid": "bfba5a3b-18f9-4b6e-b6b3-300e28370737",
+        "value": "S (CSIRT) : Preserving the evidence that may be crucial for the detection of a crime in a criminal trial"
+},
+        
+
+    {
+    "description": "Digital investigations; forensics tools;",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:LEA"
+        ]
+        },
+        "uuid": "7eed3911-38d6-4ac4-b73d-513f5858c585",
+        "value": "R (LEA) : Preserving the evidence that may be crucial for the detection of a crime in a criminal trial"
+},
+        
+
+    {
+    "description": "Digital investigations; forensics tools;",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:LEA"
+        ]
+        },
+        "uuid": "2e8c33f1-b49d-4284-88ff-b5245b305dde",
+        "value": "C (LEA) : Preserving the evidence that may be crucial for the detection of a crime in a criminal trial"
+},
+        
+
+    {
+    "description": "Digital investigations; forensics tools;",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:LEA"
+        ]
+        },
+        "uuid": "26f8bbe0-b4f5-4ffc-9246-fd380fb55332",
+        "value": "I (LEA) : Preserving the evidence that may be crucial for the detection of a crime in a criminal trial"
+},
+        
+
+    {
+    "description": "Digital investigations; forensics tools;",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:LEA"
+        ]
+        },
+        "uuid": "257a4b28-791c-474a-80b4-f4abe1d9029e",
+        "value": "S (LEA) : Preserving the evidence that may be crucial for the detection of a crime in a criminal trial"
+},
+        
+
+    {
+    "description": "Digital investigations; forensics tools;",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:Prosecutors"
+        ]
+        },
+        "uuid": "3ae25177-dec5-4051-9d17-76f88f6c91ef",
+        "value": "R (Prosecutors) : Preserving the evidence that may be crucial for the detection of a crime in a criminal trial"
+},
+        
+
+    {
+    "description": "Digital investigations; forensics tools;",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:Prosecutors"
+        ]
+        },
+        "uuid": "d5f3e410-b753-4ab9-a288-376d9329f8a2",
+        "value": "C (Prosecutors) : Preserving the evidence that may be crucial for the detection of a crime in a criminal trial"
+},
+        
+
+    {
+    "description": "Digital investigations; forensics tools;",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:Prosecutors"
+        ]
+        },
+        "uuid": "dd2b616b-1892-4500-8557-55998eb6c6d9",
+        "value": "I (Prosecutors) : Preserving the evidence that may be crucial for the detection of a crime in a criminal trial"
+},
+        
+
+    {
+    "description": "Digital investigations; forensics tools;",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:Prosecutors"
+        ]
+        },
+        "uuid": "3976bb28-596e-42ea-ad09-21b6603894a2",
+        "value": "S (Prosecutors) : Preserving the evidence that may be crucial for the detection of a crime in a criminal trial"
+},
+        
+
+    {
+    "description": "Obligations and restriction on information sharing; communication channels",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:CSIRT"
+        ]
+        },
+        "uuid": "be7736e7-dc9c-48e4-9020-9cfebafe6eb1",
+        "value": "R (CSIRT) : Advising the victim to report / obligation to report a cybercrime to law enforcement (LE)"
+},
+        
+
+    {
+    "description": "Obligations and restriction on information sharing; communication channels",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:CSIRT"
+        ]
+        },
+        "uuid": "9cfbafe5-a1f0-4c30-925f-345e5f6e913b",
+        "value": "C (CSIRT) : Advising the victim to report / obligation to report a cybercrime to law enforcement (LE)"
+},
+        
+
+    {
+    "description": "Obligations and restriction on information sharing; communication channels",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:CSIRT"
+        ]
+        },
+        "uuid": "eea7a41f-b494-4796-b8fc-39239c0bc625",
+        "value": "I (CSIRT) : Advising the victim to report / obligation to report a cybercrime to law enforcement (LE)"
+},
+        
+
+    {
+    "description": "Obligations and restriction on information sharing; communication channels",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:CSIRT"
+        ]
+        },
+        "uuid": "ba387b4a-8512-4ce2-927f-336333fe141b",
+        "value": "S (CSIRT) : Advising the victim to report / obligation to report a cybercrime to law enforcement (LE)"
+},
+        
+
+    {
+    "description": "Obligations and restriction on information sharing; communication channels",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:Prosecutors"
+        ]
+        },
+        "uuid": "fc87b133-b4dd-4780-b1d5-f9578c2d8911",
+        "value": "R (Prosecutors) : Advising the victim to report / obligation to report a cybercrime to law enforcement (LE)"
+},
+        
+
+    {
+    "description": "Obligations and restriction on information sharing; communication channels",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:Prosecutors"
+        ]
+        },
+        "uuid": "d59c8c85-18ee-401e-804c-afded81e8be8",
+        "value": "C (Prosecutors) : Advising the victim to report / obligation to report a cybercrime to law enforcement (LE)"
+},
+        
+
+    {
+    "description": "Obligations and restriction on information sharing; communication channels",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:Prosecutors"
+        ]
+        },
+        "uuid": "3881e932-bbd2-4f4c-838b-c672830adf6b",
+        "value": "I (Prosecutors) : Advising the victim to report / obligation to report a cybercrime to law enforcement (LE)"
+},
+        
+
+    {
+    "description": "Obligations and restriction on information sharing; communication channels",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:Prosecutors"
+        ]
+        },
+        "uuid": "5caaf8d4-34d4-4c80-a2bd-2f00051599f6",
+        "value": "S (Prosecutors) : Advising the victim to report / obligation to report a cybercrime to law enforcement (LE)"
+},
+        
+
+    {
+    "description": "Obligations and restrictions to the information sharing",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:CSIRT"
+        ]
+        },
+        "uuid": "e043dce3-c576-4c94-8bae-6e349e6c95c6",
+        "value": "R (CSIRT) : Duty to inform the victim of a cybercrime"
+},
+        
+
+    {
+    "description": "Obligations and restrictions to the information sharing",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:CSIRT"
+        ]
+        },
+        "uuid": "980dc89c-25b5-480d-bac1-725143d8dd60",
+        "value": "C (CSIRT) : Duty to inform the victim of a cybercrime"
+},
+        
+
+    {
+    "description": "Obligations and restrictions to the information sharing",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:CSIRT"
+        ]
+        },
+        "uuid": "f12634d9-7012-4f12-8246-94dbba766c17",
+        "value": "I (CSIRT) : Duty to inform the victim of a cybercrime"
+},
+        
+
+    {
+    "description": "Obligations and restrictions to the information sharing",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:CSIRT"
+        ]
+        },
+        "uuid": "d380a424-71ba-41fd-ba96-90c31d1a9135",
+        "value": "S (CSIRT) : Duty to inform the victim of a cybercrime"
+},
+        
+
+    {
+    "description": "Obligations and restrictions to the information sharing",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:LEA"
+        ]
+        },
+        "uuid": "abbd42fe-8a8f-40c1-a8d8-65adae27e30b",
+        "value": "R (LEA) : Duty to inform the victim of a cybercrime"
+},
+        
+
+    {
+    "description": "Obligations and restrictions to the information sharing",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:LEA"
+        ]
+        },
+        "uuid": "36dbdf6a-0f11-459d-9358-c9ef0fc86299",
+        "value": "C (LEA) : Duty to inform the victim of a cybercrime"
+},
+        
+
+    {
+    "description": "Obligations and restrictions to the information sharing",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:LEA"
+        ]
+        },
+        "uuid": "e95428e8-b123-4e27-b393-94fe77fc9596",
+        "value": "I (LEA) : Duty to inform the victim of a cybercrime"
+},
+        
+
+    {
+    "description": "Obligations and restrictions to the information sharing",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:LEA"
+        ]
+        },
+        "uuid": "ff9f244c-84ee-46db-a38c-ac9f20c23d90",
+        "value": "S (LEA) : Duty to inform the victim of a cybercrime"
+},
+        
+
+    {
+    "description": "Obligations and restrictions to the information sharing",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:Prosecutors"
+        ]
+        },
+        "uuid": "3208942d-d036-4066-a5a1-d60dfeb84492",
+        "value": "R (Prosecutors) : Duty to inform the victim of a cybercrime"
+},
+        
+
+    {
+    "description": "Obligations and restrictions to the information sharing",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:Prosecutors"
+        ]
+        },
+        "uuid": "241383d6-5be3-4b61-896b-880a83513be7",
+        "value": "C (Prosecutors) : Duty to inform the victim of a cybercrime"
+},
+        
+
+    {
+    "description": "Obligations and restrictions to the information sharing",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:Prosecutors"
+        ]
+        },
+        "uuid": "d547fddb-b617-4821-9660-2fb1bcbc0acc",
+        "value": "I (Prosecutors) : Duty to inform the victim of a cybercrime"
+},
+        
+
+    {
+    "description": "Obligations and restrictions to the information sharing",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:Prosecutors"
+        ]
+        },
+        "uuid": "df4069b0-7170-4b5c-bdde-4f7b8c6a506e",
+        "value": "S (Prosecutors) : Duty to inform the victim of a cybercrime"
+},
+        
+
+    {
+    "description": "Obligations and rules for information sharing among communities",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:CSIRT"
+        ]
+        },
+        "uuid": "78cb0a72-b871-4abd-9f35-570e48657f8e",
+        "value": "R (CSIRT) : Duty to inform other stakeholders/authorities (operators of vulnerable systems, data protection authorities, telecommunications authorities, etc.)"
+},
+        
+
+    {
+    "description": "Obligations and rules for information sharing among communities",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:CSIRT"
+        ]
+        },
+        "uuid": "ff30619e-1327-4796-921a-a4fd8d6ff6cb",
+        "value": "C (CSIRT) : Duty to inform other stakeholders/authorities (operators of vulnerable systems, data protection authorities, telecommunications authorities, etc.)"
+},
+        
+
+    {
+    "description": "Obligations and rules for information sharing among communities",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:CSIRT"
+        ]
+        },
+        "uuid": "8b0fff25-c035-45ad-a080-68ed10db3bb5",
+        "value": "I (CSIRT) : Duty to inform other stakeholders/authorities (operators of vulnerable systems, data protection authorities, telecommunications authorities, etc.)"
+},
+        
+
+    {
+    "description": "Obligations and rules for information sharing among communities",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:CSIRT"
+        ]
+        },
+        "uuid": "a495cfd8-d929-46a3-b98d-86e874d78946",
+        "value": "S (CSIRT) : Duty to inform other stakeholders/authorities (operators of vulnerable systems, data protection authorities, telecommunications authorities, etc.)"
+},
+        
+
+    {
+    "description": "Communication skills; communication channel",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:CSIRT"
+        ]
+        },
+        "uuid": "f6275230-f1bf-4a86-94c5-99badeba2f56",
+        "value": "R (CSIRT) : Acting as a single point of contact (PoC) for any communication with other EU Member States for the incident handling"
+},
+        
+
+    {
+    "description": "Communication skills; communication channel",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:CSIRT"
+        ]
+        },
+        "uuid": "30f05cd1-e85d-40ae-a5a6-41c9f50f0521",
+        "value": "C (CSIRT) : Acting as a single point of contact (PoC) for any communication with other EU Member States for the incident handling"
+},
+        
+
+    {
+    "description": "Communication skills; communication channel",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:CSIRT"
+        ]
+        },
+        "uuid": "4910484e-e898-432a-b91b-ab1969ff6798",
+        "value": "I (CSIRT) : Acting as a single point of contact (PoC) for any communication with other EU Member States for the incident handling"
+},
+        
+
+    {
+    "description": "Communication skills; communication channel",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:CSIRT"
+        ]
+        },
+        "uuid": "8f763a99-ddff-4e82-adb6-9a9bfbb07991",
+        "value": "S (CSIRT) : Acting as a single point of contact (PoC) for any communication with other EU Member States for the incident handling"
+},
+        
+
+    {
+    "description": "Well-prepared & well-organised to react promptly in an incident",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:CSIRT"
+        ]
+        },
+        "uuid": "94be476b-9a29-4d79-bb1b-83a4cedc5451",
+        "value": "R (CSIRT) : Mitigation of an incident"
+},
+        
+
+    {
+    "description": "Well-prepared & well-organised to react promptly in an incident",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:CSIRT"
+        ]
+        },
+        "uuid": "e5204628-a609-48c9-9f7a-64320940c88c",
+        "value": "C (CSIRT) : Mitigation of an incident"
+},
+        
+
+    {
+    "description": "Well-prepared & well-organised to react promptly in an incident",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:CSIRT"
+        ]
+        },
+        "uuid": "c9e0e6fa-a8a1-48aa-87b8-049c8408923e",
+        "value": "I (CSIRT) : Mitigation of an incident"
+},
+        
+
+    {
+    "description": "Well-prepared & well-organised to react promptly in an incident",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:CSIRT"
+        ]
+        },
+        "uuid": "76bd1d3f-8060-4fbf-86ac-6856b60c9820",
+        "value": "S (CSIRT) : Mitigation of an incident"
+},
+        
+
+    {
+    "description": "Knowledge of the legal framework; decision- making skills",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:LEA"
+        ]
+        },
+        "uuid": "7aaea1f9-cdb3-45ee-9950-cef616d6bbfc",
+        "value": "R (LEA) : Conducting the criminal investigation"
+},
+        
+
+    {
+    "description": "Knowledge of the legal framework; decision- making skills",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:LEA"
+        ]
+        },
+        "uuid": "5b604585-990b-4610-8900-80818c44f336",
+        "value": "C (LEA) : Conducting the criminal investigation"
+},
+        
+
+    {
+    "description": "Knowledge of the legal framework; decision- making skills",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:LEA"
+        ]
+        },
+        "uuid": "2db670a8-9665-4e14-8a28-979c613ec7fb",
+        "value": "I (LEA) : Conducting the criminal investigation"
+},
+        
+
+    {
+    "description": "Knowledge of the legal framework; decision- making skills",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:LEA"
+        ]
+        },
+        "uuid": "81f2dd99-92d5-4f59-b938-be166dcdfdbe",
+        "value": "S (LEA) : Conducting the criminal investigation"
+},
+        
+
+    {
+    "description": "Knowledge of the legal framework; decision- making skills",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:Prosecutors"
+        ]
+        },
+        "uuid": "715b6c90-9a50-47b5-aa07-8ef1d5bb17e4",
+        "value": "R (Prosecutors) : Conducting the criminal investigation"
+},
+        
+
+    {
+    "description": "Knowledge of the legal framework; decision- making skills",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:Prosecutors"
+        ]
+        },
+        "uuid": "9d211f78-55ce-4706-9989-f46de27bef70",
+        "value": "C (Prosecutors) : Conducting the criminal investigation"
+},
+        
+
+    {
+    "description": "Knowledge of the legal framework; decision- making skills",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:Prosecutors"
+        ]
+        },
+        "uuid": "bf86dea4-da5d-4ed0-9bdc-46a12683192d",
+        "value": "I (Prosecutors) : Conducting the criminal investigation"
+},
+        
+
+    {
+    "description": "Knowledge of the legal framework; decision- making skills",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:Prosecutors"
+        ]
+        },
+        "uuid": "54c6b4c3-f836-4bae-bd28-fd9fd1d3f8b1",
+        "value": "S (Prosecutors) : Conducting the criminal investigation"
+},
+        
+
+    {
+    "description": "Knowledge of the incident response plan; leadership skills",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:Judiciary"
+        ]
+        },
+        "uuid": "9b83f80c-8857-4759-be2e-497ca7801145",
+        "value": "R (Judiciary) : Leading the criminal investigation"
+},
+        
+
+    {
+    "description": "Knowledge of the incident response plan; leadership skills",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:Judiciary"
+        ]
+        },
+        "uuid": "12ce49b3-dec6-44c2-b8f2-3f989df3ea70",
+        "value": "C (Judiciary) : Leading the criminal investigation"
+},
+        
+
+    {
+    "description": "Knowledge of the incident response plan; leadership skills",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:Judiciary"
+        ]
+        },
+        "uuid": "b17db6a5-03b7-490c-9a2a-37ec32f8e00e",
+        "value": "I (Judiciary) : Leading the criminal investigation"
+},
+        
+
+    {
+    "description": "Knowledge of the incident response plan; leadership skills",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:Judiciary"
+        ]
+        },
+        "uuid": "90fb2888-8f93-46af-80c3-5c117f8f1e93",
+        "value": "S (Judiciary) : Leading the criminal investigation"
+},
+        
+
+    {
+    "description": "Knowledge of the incident response plan; leadership skills",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:Prosecutors"
+        ]
+        },
+        "uuid": "78977254-63bb-4d59-832f-cbd3ab338b45",
+        "value": "R (Prosecutors) : Leading the criminal investigation"
+},
+        
+
+    {
+    "description": "Knowledge of the incident response plan; leadership skills",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:Prosecutors"
+        ]
+        },
+        "uuid": "938d0a28-c975-4cbc-992b-4f3cde4b6a65",
+        "value": "C (Prosecutors) : Leading the criminal investigation"
+},
+        
+
+    {
+    "description": "Knowledge of the incident response plan; leadership skills",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:Prosecutors"
+        ]
+        },
+        "uuid": "2c9ab471-dc40-4b45-aaa5-189210756cf0",
+        "value": "I (Prosecutors) : Leading the criminal investigation"
+},
+        
+
+    {
+    "description": "Knowledge of the incident response plan; leadership skills",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:Prosecutors"
+        ]
+        },
+        "uuid": "260ea739-05cf-4338-a21a-7766c677bbbc",
+        "value": "S (Prosecutors) : Leading the criminal investigation"
+},
+        
+
+    {
+    "description": "Knowledge of the legal framework; decision- making skills",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:Judiciary"
+        ]
+        },
+        "uuid": "184c0d73-7d76-4ab2-b1ca-e71680c60086",
+        "value": "R (Judiciary) : In the case of disagreement, the final say for an investigation"
+},
+        
+
+    {
+    "description": "Knowledge of the legal framework; decision- making skills",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:Judiciary"
+        ]
+        },
+        "uuid": "ce4050fb-b38e-43bc-bbe2-32f64b430b7d",
+        "value": "C (Judiciary) : In the case of disagreement, the final say for an investigation"
+},
+        
+
+    {
+    "description": "Knowledge of the legal framework; decision- making skills",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:Judiciary"
+        ]
+        },
+        "uuid": "b351a7f8-8331-4ca6-8d9e-45976a6f287a",
+        "value": "I (Judiciary) : In the case of disagreement, the final say for an investigation"
+},
+        
+
+    {
+    "description": "Knowledge of the legal framework; decision- making skills",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:Judiciary"
+        ]
+        },
+        "uuid": "0ef2b27f-6ffc-4bb7-babd-6c950a01e29c",
+        "value": "S (Judiciary) : In the case of disagreement, the final say for an investigation"
+},
+        
+
+    {
+    "description": "Knowledge of the legal framework; decision- making skills",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:Prosecutors"
+        ]
+        },
+        "uuid": "c5483e52-148d-43d0-b212-6a080d77cdcc",
+        "value": "R (Prosecutors) : In the case of disagreement, the final say for an investigation"
+},
+        
+
+    {
+    "description": "Knowledge of the legal framework; decision- making skills",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:Prosecutors"
+        ]
+        },
+        "uuid": "e76404b4-ff47-4494-91d3-7d3b80ea7790",
+        "value": "C (Prosecutors) : In the case of disagreement, the final say for an investigation"
+},
+        
+
+    {
+    "description": "Knowledge of the legal framework; decision- making skills",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:Prosecutors"
+        ]
+        },
+        "uuid": "a475ec79-3f4c-458c-8372-5b5ba7cb4fd7",
+        "value": "I (Prosecutors) : In the case of disagreement, the final say for an investigation"
+},
+        
+
+    {
+    "description": "Knowledge of the legal framework; decision- making skills",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:Prosecutors"
+        ]
+        },
+        "uuid": "dce34d28-d7cb-4af7-83c7-5ed497d93e9f",
+        "value": "S (Prosecutors) : In the case of disagreement, the final say for an investigation"
+},
+        
+
+    {
+    "description": "Decision-making in the criminal procedure",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:LEA"
+        ]
+        },
+        "uuid": "61e59716-90e7-4b92-99e6-9e363c0a8a6a",
+        "value": "R (LEA) : Authorizing the investigation carried out by the LE"
+},
+        
+
+    {
+    "description": "Decision-making in the criminal procedure",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:LEA"
+        ]
+        },
+        "uuid": "fb3f52c9-19b1-4e16-a2be-d9be79beb8b6",
+        "value": "C (LEA) : Authorizing the investigation carried out by the LE"
+},
+        
+
+    {
+    "description": "Decision-making in the criminal procedure",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:LEA"
+        ]
+        },
+        "uuid": "7d61d68f-217e-4bf2-8161-1b80fafb7ce6",
+        "value": "I (LEA) : Authorizing the investigation carried out by the LE"
+},
+        
+
+    {
+    "description": "Decision-making in the criminal procedure",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:LEA"
+        ]
+        },
+        "uuid": "2afbc031-20fe-40a6-9074-3ad6e610a75e",
+        "value": "S (LEA) : Authorizing the investigation carried out by the LE"
+},
+        
+
+    {
+    "description": "Decision-making in the criminal procedure",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:Judiciary"
+        ]
+        },
+        "uuid": "cb56801d-8e4c-40fc-a6ef-caa976907954",
+        "value": "R (Judiciary) : Authorizing the investigation carried out by the LE"
+},
+        
+
+    {
+    "description": "Decision-making in the criminal procedure",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:Judiciary"
+        ]
+        },
+        "uuid": "eb743771-be98-4515-bdad-acfb66e4d971",
+        "value": "C (Judiciary) : Authorizing the investigation carried out by the LE"
+},
+        
+
+    {
+    "description": "Decision-making in the criminal procedure",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:Judiciary"
+        ]
+        },
+        "uuid": "d7e15c3a-c9e0-4a02-8e78-44a238e50b69",
+        "value": "I (Judiciary) : Authorizing the investigation carried out by the LE"
+},
+        
+
+    {
+    "description": "Decision-making in the criminal procedure",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:Judiciary"
+        ]
+        },
+        "uuid": "92ca44a8-f3c0-43e8-8895-b5e3add47764",
+        "value": "S (Judiciary) : Authorizing the investigation carried out by the LE"
+},
+        
+
+    {
+    "description": "Decision-making in the criminal procedure",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:Prosecutors"
+        ]
+        },
+        "uuid": "f80647f2-24ca-47b3-9714-9d768533c696",
+        "value": "R (Prosecutors) : Authorizing the investigation carried out by the LE"
+},
+        
+
+    {
+    "description": "Decision-making in the criminal procedure",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:Prosecutors"
+        ]
+        },
+        "uuid": "5da444c7-9ec8-41ca-82ca-a487b2264164",
+        "value": "C (Prosecutors) : Authorizing the investigation carried out by the LE"
+},
+        
+
+    {
+    "description": "Decision-making in the criminal procedure",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:Prosecutors"
+        ]
+        },
+        "uuid": "3b3d589a-6f58-47cb-8be4-2b461e25d8c4",
+        "value": "I (Prosecutors) : Authorizing the investigation carried out by the LE"
+},
+        
+
+    {
+    "description": "Decision-making in the criminal procedure",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:Prosecutors"
+        ]
+        },
+        "uuid": "f1932967-c2e7-4f4b-a3f2-7d2eb2875213",
+        "value": "S (Prosecutors) : Authorizing the investigation carried out by the LE"
+},
+        
+
+    {
+    "description": "Fundamental rights in criminal investigations and prosecutions",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:CSIRT"
+        ]
+        },
+        "uuid": "802d6ed5-a689-45b8-9548-ab1c85978cfd",
+        "value": "R (CSIRT) : Ensuring that fundamental rights are respected during the investigation and prosecution"
+},
+        
+
+    {
+    "description": "Fundamental rights in criminal investigations and prosecutions",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:CSIRT"
+        ]
+        },
+        "uuid": "581c0d49-900d-40c9-b01c-2a0a2c06bd59",
+        "value": "C (CSIRT) : Ensuring that fundamental rights are respected during the investigation and prosecution"
+},
+        
+
+    {
+    "description": "Fundamental rights in criminal investigations and prosecutions",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:CSIRT"
+        ]
+        },
+        "uuid": "18123343-a20e-45c1-8950-c2d878a394cc",
+        "value": "I (CSIRT) : Ensuring that fundamental rights are respected during the investigation and prosecution"
+},
+        
+
+    {
+    "description": "Fundamental rights in criminal investigations and prosecutions",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:CSIRT"
+        ]
+        },
+        "uuid": "393f1d8e-83a4-46bc-b671-aadfa9a5b47d",
+        "value": "S (CSIRT) : Ensuring that fundamental rights are respected during the investigation and prosecution"
+},
+        
+
+    {
+    "description": "Fundamental rights in criminal investigations and prosecutions",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:LEA"
+        ]
+        },
+        "uuid": "6411071a-6fc1-4307-a23f-dcf8ecbedc3b",
+        "value": "R (LEA) : Ensuring that fundamental rights are respected during the investigation and prosecution"
+},
+        
+
+    {
+    "description": "Fundamental rights in criminal investigations and prosecutions",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:LEA"
+        ]
+        },
+        "uuid": "eaee6a2f-57db-4024-9b4f-282c556751d0",
+        "value": "C (LEA) : Ensuring that fundamental rights are respected during the investigation and prosecution"
+},
+        
+
+    {
+    "description": "Fundamental rights in criminal investigations and prosecutions",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:LEA"
+        ]
+        },
+        "uuid": "835cd6ec-a125-43c2-ad53-214025142027",
+        "value": "I (LEA) : Ensuring that fundamental rights are respected during the investigation and prosecution"
+},
+        
+
+    {
+    "description": "Fundamental rights in criminal investigations and prosecutions",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:LEA"
+        ]
+        },
+        "uuid": "5768cde0-a660-444b-95ab-f7d785238079",
+        "value": "S (LEA) : Ensuring that fundamental rights are respected during the investigation and prosecution"
+},
+        
+
+    {
+    "description": "Fundamental rights in criminal investigations and prosecutions",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:Judiciary"
+        ]
+        },
+        "uuid": "ddeaa24f-372a-4308-aa9e-fb6d29f7971d",
+        "value": "R (Judiciary) : Ensuring that fundamental rights are respected during the investigation and prosecution"
+},
+        
+
+    {
+    "description": "Fundamental rights in criminal investigations and prosecutions",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:Judiciary"
+        ]
+        },
+        "uuid": "d54370f3-a674-4546-9928-595c862782e0",
+        "value": "C (Judiciary) : Ensuring that fundamental rights are respected during the investigation and prosecution"
+},
+        
+
+    {
+    "description": "Fundamental rights in criminal investigations and prosecutions",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:Judiciary"
+        ]
+        },
+        "uuid": "ca0936b6-d5af-46eb-b787-3e3c68e1cdb6",
+        "value": "I (Judiciary) : Ensuring that fundamental rights are respected during the investigation and prosecution"
+},
+        
+
+    {
+    "description": "Fundamental rights in criminal investigations and prosecutions",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:Judiciary"
+        ]
+        },
+        "uuid": "afdd4065-10e3-4a0f-9612-d045dba3b293",
+        "value": "S (Judiciary) : Ensuring that fundamental rights are respected during the investigation and prosecution"
+},
+        
+
+    {
+    "description": "Fundamental rights in criminal investigations and prosecutions",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:Prosecutors"
+        ]
+        },
+        "uuid": "9e7bbb25-ec8a-46c2-bf71-8794e7bdc36f",
+        "value": "R (Prosecutors) : Ensuring that fundamental rights are respected during the investigation and prosecution"
+},
+        
+
+    {
+    "description": "Fundamental rights in criminal investigations and prosecutions",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:Prosecutors"
+        ]
+        },
+        "uuid": "e985a271-bb67-43de-9168-621269ddc69c",
+        "value": "C (Prosecutors) : Ensuring that fundamental rights are respected during the investigation and prosecution"
+},
+        
+
+    {
+    "description": "Fundamental rights in criminal investigations and prosecutions",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:Prosecutors"
+        ]
+        },
+        "uuid": "76bf8741-a576-49ce-a399-497aa24a71ec",
+        "value": "I (Prosecutors) : Ensuring that fundamental rights are respected during the investigation and prosecution"
+},
+        
+
+    {
+    "description": "Fundamental rights in criminal investigations and prosecutions",
+        "meta": {
+        "kill_chain": [
+            "during-incident-crime:Prosecutors"
+        ]
+        },
+        "uuid": "eb76c3f2-580e-4c29-a55a-b9714e187a89",
+        "value": "S (Prosecutors) : Ensuring that fundamental rights are respected during the investigation and prosecution"
+},
+        
+
+    {
+    "description": "Technical skills",
+        "meta": {
+        "kill_chain": [
+            "post-incident-crime:CSIRT"
+        ]
+        },
+        "uuid": "1aab9a53-ca35-4d4a-8e34-c5674ee39c29",
+        "value": "R (CSIRT) : Systems recovery"
+},
+        
+
+    {
+    "description": "Technical skills",
+        "meta": {
+        "kill_chain": [
+            "post-incident-crime:CSIRT"
+        ]
+        },
+        "uuid": "9d3758ca-d548-4185-a6bd-38bf23cfcb3d",
+        "value": "C (CSIRT) : Systems recovery"
+},
+        
+
+    {
+    "description": "Technical skills",
+        "meta": {
+        "kill_chain": [
+            "post-incident-crime:CSIRT"
+        ]
+        },
+        "uuid": "a0c98d11-cd41-4704-a9f6-551d70c54928",
+        "value": "I (CSIRT) : Systems recovery"
+},
+        
+
+    {
+    "description": "Technical skills",
+        "meta": {
+        "kill_chain": [
+            "post-incident-crime:CSIRT"
+        ]
+        },
+        "uuid": "f39bbb18-d467-4ce3-9ed0-3cf3341cd435",
+        "value": "S (CSIRT) : Systems recovery"
+},
+        
+
+    {
+    "description": "Drafting and establishing procedures; technical knowledge",
+        "meta": {
+        "kill_chain": [
+            "post-incident-crime:CSIRT"
+        ]
+        },
+        "uuid": "352af27b-5424-4897-9b70-595a711fd0a0",
+        "value": "R (CSIRT) : Protecting the constituency"
+},
+        
+
+    {
+    "description": "Drafting and establishing procedures; technical knowledge",
+        "meta": {
+        "kill_chain": [
+            "post-incident-crime:CSIRT"
+        ]
+        },
+        "uuid": "a7e2a7e6-fcd8-4633-8b2c-84f26ba21f4e",
+        "value": "C (CSIRT) : Protecting the constituency"
+},
+        
+
+    {
+    "description": "Drafting and establishing procedures; technical knowledge",
+        "meta": {
+        "kill_chain": [
+            "post-incident-crime:CSIRT"
+        ]
+        },
+        "uuid": "2bf69f12-2f4c-4c94-9bcd-4280e9e17d04",
+        "value": "I (CSIRT) : Protecting the constituency"
+},
+        
+
+    {
+    "description": "Drafting and establishing procedures; technical knowledge",
+        "meta": {
+        "kill_chain": [
+            "post-incident-crime:CSIRT"
+        ]
+        },
+        "uuid": "f93176dd-b37d-4b90-a9b9-5773fe91a392",
+        "value": "S (CSIRT) : Protecting the constituency"
+},
+        
+
+    {
+    "description": "Technical skills pertaining to system administration, network administration, technical support or intrusion detection",
+        "meta": {
+        "kill_chain": [
+            "post-incident-crime:CSIRT"
+        ]
+        },
+        "uuid": "3119a822-08f5-4a75-aeb8-db4ae52660b3",
+        "value": "R (CSIRT) : Preventing and containing IT incidents from a technical point of view"
+},
+        
+
+    {
+    "description": "Technical skills pertaining to system administration, network administration, technical support or intrusion detection",
+        "meta": {
+        "kill_chain": [
+            "post-incident-crime:CSIRT"
+        ]
+        },
+        "uuid": "100d6ef8-3338-4a45-888a-cf58638e317c",
+        "value": "C (CSIRT) : Preventing and containing IT incidents from a technical point of view"
+},
+        
+
+    {
+    "description": "Technical skills pertaining to system administration, network administration, technical support or intrusion detection",
+        "meta": {
+        "kill_chain": [
+            "post-incident-crime:CSIRT"
+        ]
+        },
+        "uuid": "6f9eddf0-d3c0-4732-8ca7-3d6db59eafb9",
+        "value": "I (CSIRT) : Preventing and containing IT incidents from a technical point of view"
+},
+        
+
+    {
+    "description": "Technical skills pertaining to system administration, network administration, technical support or intrusion detection",
+        "meta": {
+        "kill_chain": [
+            "post-incident-crime:CSIRT"
+        ]
+        },
+        "uuid": "0ec296f4-82f3-4d6a-ad51-1dc599cac96a",
+        "value": "S (CSIRT) : Preventing and containing IT incidents from a technical point of view"
+},
+        
+
+    {
+    "description": "Criminalistics, digital forensics, admissible evidence",
+        "meta": {
+        "kill_chain": [
+            "post-incident-crime:LEA"
+        ]
+        },
+        "uuid": "ac0e6e6b-d36f-4ae6-a7c5-d18f2f111d7f",
+        "value": "R (LEA) : Analysis and interpretation of collected evidence"
+},
+        
+
+    {
+    "description": "Criminalistics, digital forensics, admissible evidence",
+        "meta": {
+        "kill_chain": [
+            "post-incident-crime:LEA"
+        ]
+        },
+        "uuid": "e83ae64d-1929-4a07-b741-c76fbc8f4b7b",
+        "value": "C (LEA) : Analysis and interpretation of collected evidence"
+},
+        
+
+    {
+    "description": "Criminalistics, digital forensics, admissible evidence",
+        "meta": {
+        "kill_chain": [
+            "post-incident-crime:LEA"
+        ]
+        },
+        "uuid": "c73816f7-e0f2-4dd0-a7e2-ab6a4d2d7be4",
+        "value": "I (LEA) : Analysis and interpretation of collected evidence"
+},
+        
+
+    {
+    "description": "Criminalistics, digital forensics, admissible evidence",
+        "meta": {
+        "kill_chain": [
+            "post-incident-crime:LEA"
+        ]
+        },
+        "uuid": "3e3bca3c-14b1-4571-aa12-c7cae4d192c5",
+        "value": "S (LEA) : Analysis and interpretation of collected evidence"
+},
+        
+
+    {
+    "description": "Criminalistics, digital forensics, admissible evidence",
+        "meta": {
+        "kill_chain": [
+            "post-incident-crime:Judiciary"
+        ]
+        },
+        "uuid": "e6c979bc-5a80-4f84-bf2c-9e049129a8bc",
+        "value": "R (Judiciary) : Analysis and interpretation of collected evidence"
+},
+        
+
+    {
+    "description": "Criminalistics, digital forensics, admissible evidence",
+        "meta": {
+        "kill_chain": [
+            "post-incident-crime:Judiciary"
+        ]
+        },
+        "uuid": "5eed7f6b-7c1b-4947-9430-ac1715f10ed1",
+        "value": "C (Judiciary) : Analysis and interpretation of collected evidence"
+},
+        
+
+    {
+    "description": "Criminalistics, digital forensics, admissible evidence",
+        "meta": {
+        "kill_chain": [
+            "post-incident-crime:Judiciary"
+        ]
+        },
+        "uuid": "62b6446c-460c-4c59-a02b-c79709ec8d26",
+        "value": "I (Judiciary) : Analysis and interpretation of collected evidence"
+},
+        
+
+    {
+    "description": "Criminalistics, digital forensics, admissible evidence",
+        "meta": {
+        "kill_chain": [
+            "post-incident-crime:Judiciary"
+        ]
+        },
+        "uuid": "f8c767fc-41fa-4ee8-adde-6ba479785163",
+        "value": "S (Judiciary) : Analysis and interpretation of collected evidence"
+},
+        
+
+    {
+    "description": "Criminalistics, digital forensics, admissible evidence",
+        "meta": {
+        "kill_chain": [
+            "post-incident-crime:Prosecutors"
+        ]
+        },
+        "uuid": "7e448293-1db1-41de-881c-e832082e1cb3",
+        "value": "R (Prosecutors) : Analysis and interpretation of collected evidence"
+},
+        
+
+    {
+    "description": "Criminalistics, digital forensics, admissible evidence",
+        "meta": {
+        "kill_chain": [
+            "post-incident-crime:Prosecutors"
+        ]
+        },
+        "uuid": "900a47ee-0280-4ce0-9aba-fea558708a72",
+        "value": "C (Prosecutors) : Analysis and interpretation of collected evidence"
+},
+        
+
+    {
+    "description": "Criminalistics, digital forensics, admissible evidence",
+        "meta": {
+        "kill_chain": [
+            "post-incident-crime:Prosecutors"
+        ]
+        },
+        "uuid": "79d63d6a-9aaf-4006-a6eb-81b4aa975880",
+        "value": "I (Prosecutors) : Analysis and interpretation of collected evidence"
+},
+        
+
+    {
+    "description": "Criminalistics, digital forensics, admissible evidence",
+        "meta": {
+        "kill_chain": [
+            "post-incident-crime:Prosecutors"
+        ]
+        },
+        "uuid": "03ec624a-10ae-42af-89d5-01cafaa70429",
+        "value": "S (Prosecutors) : Analysis and interpretation of collected evidence"
+},
+        
+
+    {
+    "description": "Testimonies in a criminal trial",
+        "meta": {
+        "kill_chain": [
+            "post-incident-crime:Judiciary"
+        ]
+        },
+        "uuid": "1d58cfc0-aebf-4895-b6e6-26bfed8f16de",
+        "value": "R (Judiciary) : Requesting testimonies from CSIRTs and LE"
+},
+        
+
+    {
+    "description": "Testimonies in a criminal trial",
+        "meta": {
+        "kill_chain": [
+            "post-incident-crime:Judiciary"
+        ]
+        },
+        "uuid": "88036cf1-a807-4f69-9035-679bc42d1cb3",
+        "value": "C (Judiciary) : Requesting testimonies from CSIRTs and LE"
+},
+        
+
+    {
+    "description": "Testimonies in a criminal trial",
+        "meta": {
+        "kill_chain": [
+            "post-incident-crime:Judiciary"
+        ]
+        },
+        "uuid": "5f3f62ae-bb7b-48c2-b37b-4723dfc19d90",
+        "value": "I (Judiciary) : Requesting testimonies from CSIRTs and LE"
+},
+        
+
+    {
+    "description": "Testimonies in a criminal trial",
+        "meta": {
+        "kill_chain": [
+            "post-incident-crime:Judiciary"
+        ]
+        },
+        "uuid": "36f14726-3f74-4b31-b376-2360210ccb2b",
+        "value": "S (Judiciary) : Requesting testimonies from CSIRTs and LE"
+},
+        
+
+    {
+    "description": "Testimonies in a criminal trial",
+        "meta": {
+        "kill_chain": [
+            "post-incident-crime:Prosecutors"
+        ]
+        },
+        "uuid": "ff237b7f-4d6a-46ad-86eb-9d6d1c12eefb",
+        "value": "R (Prosecutors) : Requesting testimonies from CSIRTs and LE"
+},
+        
+
+    {
+    "description": "Testimonies in a criminal trial",
+        "meta": {
+        "kill_chain": [
+            "post-incident-crime:Prosecutors"
+        ]
+        },
+        "uuid": "21c2d9fc-7bea-449b-a1cb-ad0b9bb0b261",
+        "value": "C (Prosecutors) : Requesting testimonies from CSIRTs and LE"
+},
+        
+
+    {
+    "description": "Testimonies in a criminal trial",
+        "meta": {
+        "kill_chain": [
+            "post-incident-crime:Prosecutors"
+        ]
+        },
+        "uuid": "7cfecf81-c618-4615-b561-86ad2fcf5942",
+        "value": "I (Prosecutors) : Requesting testimonies from CSIRTs and LE"
+},
+        
+
+    {
+    "description": "Testimonies in a criminal trial",
+        "meta": {
+        "kill_chain": [
+            "post-incident-crime:Prosecutors"
+        ]
+        },
+        "uuid": "3b63f611-2896-4ecb-bcf5-49e0511db54e",
+        "value": "S (Prosecutors) : Requesting testimonies from CSIRTs and LE"
+},
+        
+
+    {
+    "description": "Evidence in a criminal trial",
+        "meta": {
+        "kill_chain": [
+            "post-incident-crime:Judiciary"
+        ]
+        },
+        "uuid": "fa24a22d-473b-4642-b915-b169c6e6d2eb",
+        "value": "R (Judiciary) : Admitting and assessing the evidence"
+},
+        
+
+    {
+    "description": "Evidence in a criminal trial",
+        "meta": {
+        "kill_chain": [
+            "post-incident-crime:Judiciary"
+        ]
+        },
+        "uuid": "637f36a7-2e42-4452-8c22-38567c27605e",
+        "value": "C (Judiciary) : Admitting and assessing the evidence"
+},
+        
+
+    {
+    "description": "Evidence in a criminal trial",
+        "meta": {
+        "kill_chain": [
+            "post-incident-crime:Judiciary"
+        ]
+        },
+        "uuid": "c70fd762-1ba0-47c6-9d11-c867706f2d1e",
+        "value": "I (Judiciary) : Admitting and assessing the evidence"
+},
+        
+
+    {
+    "description": "Evidence in a criminal trial",
+        "meta": {
+        "kill_chain": [
+            "post-incident-crime:Judiciary"
+        ]
+        },
+        "uuid": "49e425d3-57e9-47f9-a7d2-285e8b685a29",
+        "value": "S (Judiciary) : Admitting and assessing the evidence"
+},
+        
+
+    {
+    "description": "Evidence in a criminal trial",
+        "meta": {
+        "kill_chain": [
+            "post-incident-crime:Prosecutors"
+        ]
+        },
+        "uuid": "4225dba3-35b3-46e3-a8ad-80e1d8fcd0ea",
+        "value": "R (Prosecutors) : Admitting and assessing the evidence"
+},
+        
+
+    {
+    "description": "Evidence in a criminal trial",
+        "meta": {
+        "kill_chain": [
+            "post-incident-crime:Prosecutors"
+        ]
+        },
+        "uuid": "3871d4a0-20c9-45ac-a523-5aade907089f",
+        "value": "C (Prosecutors) : Admitting and assessing the evidence"
+},
+        
+
+    {
+    "description": "Evidence in a criminal trial",
+        "meta": {
+        "kill_chain": [
+            "post-incident-crime:Prosecutors"
+        ]
+        },
+        "uuid": "b7e5adc8-c102-454c-8540-56d96637416b",
+        "value": "I (Prosecutors) : Admitting and assessing the evidence"
+},
+        
+
+    {
+    "description": "Evidence in a criminal trial",
+        "meta": {
+        "kill_chain": [
+            "post-incident-crime:Prosecutors"
+        ]
+        },
+        "uuid": "502715e2-0fbc-45fa-9a2e-bb1bad6af06b",
+        "value": "S (Prosecutors) : Admitting and assessing the evidence"
+},
+        
+
+    {
+    "description": "Technical knowledge and knowledge of the legal framework",
+        "meta": {
+        "kill_chain": [
+            "post-incident-crime:Judiciary"
+        ]
+        },
+        "uuid": "36206d86-bca2-42e0-b354-1898e7a2027d",
+        "value": "R (Judiciary) : Judging who committed a crime"
+},
+        
+
+    {
+    "description": "Technical knowledge and knowledge of the legal framework",
+        "meta": {
+        "kill_chain": [
+            "post-incident-crime:Judiciary"
+        ]
+        },
+        "uuid": "91dde3f4-f469-4b5c-abee-33764fe18243",
+        "value": "C (Judiciary) : Judging who committed a crime"
+},
+        
+
+    {
+    "description": "Technical knowledge and knowledge of the legal framework",
+        "meta": {
+        "kill_chain": [
+            "post-incident-crime:Judiciary"
+        ]
+        },
+        "uuid": "179926b3-2ac0-4864-a01f-0f5685083f37",
+        "value": "I (Judiciary) : Judging who committed a crime"
+},
+        
+
+    {
+    "description": "Technical knowledge and knowledge of the legal framework",
+        "meta": {
+        "kill_chain": [
+            "post-incident-crime:Judiciary"
+        ]
+        },
+        "uuid": "d0657dcb-1cba-456b-b21b-939c7de1a09e",
+        "value": "S (Judiciary) : Judging who committed a crime"
+},
+        
+
+    {
+    "description": "Evaluation skills",
+        "meta": {
+        "kill_chain": [
+            "post-incident-crime:CSIRT"
+        ]
+        },
+        "uuid": "cdb76999-19cb-40ba-805e-7889fae72fa2",
+        "value": "R (CSIRT) : Assessing incident damage and cost"
+},
+        
+
+    {
+    "description": "Evaluation skills",
+        "meta": {
+        "kill_chain": [
+            "post-incident-crime:CSIRT"
+        ]
+        },
+        "uuid": "c0a8f773-5163-4cee-83bf-e39a3f57ed8c",
+        "value": "C (CSIRT) : Assessing incident damage and cost"
+},
+        
+
+    {
+    "description": "Evaluation skills",
+        "meta": {
+        "kill_chain": [
+            "post-incident-crime:CSIRT"
+        ]
+        },
+        "uuid": "11bdbbe0-e124-40e2-bbcc-6b399b6b8c31",
+        "value": "I (CSIRT) : Assessing incident damage and cost"
+},
+        
+
+    {
+    "description": "Evaluation skills",
+        "meta": {
+        "kill_chain": [
+            "post-incident-crime:CSIRT"
+        ]
+        },
+        "uuid": "24dff009-817e-4458-b6a0-f0b62d5f92e6",
+        "value": "S (CSIRT) : Assessing incident damage and cost"
+},
+        
+
+    {
+    "description": "Evaluation skills",
+        "meta": {
+        "kill_chain": [
+            "post-incident-crime:LEA"
+        ]
+        },
+        "uuid": "6f11a37b-e9b4-4531-9cc2-71412064ae39",
+        "value": "R (LEA) : Assessing incident damage and cost"
+},
+        
+
+    {
+    "description": "Evaluation skills",
+        "meta": {
+        "kill_chain": [
+            "post-incident-crime:LEA"
+        ]
+        },
+        "uuid": "2b7d9911-e4ae-4a48-bed4-f6e19223fea5",
+        "value": "C (LEA) : Assessing incident damage and cost"
+},
+        
+
+    {
+    "description": "Evaluation skills",
+        "meta": {
+        "kill_chain": [
+            "post-incident-crime:LEA"
+        ]
+        },
+        "uuid": "5cbed4c8-eaeb-4046-b200-cab899fdfcae",
+        "value": "I (LEA) : Assessing incident damage and cost"
+},
+        
+
+    {
+    "description": "Evaluation skills",
+        "meta": {
+        "kill_chain": [
+            "post-incident-crime:LEA"
+        ]
+        },
+        "uuid": "9d9f935a-23b0-463f-a3f3-050200fe99ab",
+        "value": "S (LEA) : Assessing incident damage and cost"
+},
+        
+
+    {
+    "description": "Evaluation skills",
+        "meta": {
+        "kill_chain": [
+            "post-incident-crime:Judiciary"
+        ]
+        },
+        "uuid": "bfecc7b3-d481-45f1-a9d5-a1e0f163f423",
+        "value": "R (Judiciary) : Assessing incident damage and cost"
+},
+        
+
+    {
+    "description": "Evaluation skills",
+        "meta": {
+        "kill_chain": [
+            "post-incident-crime:Judiciary"
+        ]
+        },
+        "uuid": "28b10ca6-5aa6-4050-a602-4fa2464e6b8a",
+        "value": "C (Judiciary) : Assessing incident damage and cost"
+},
+        
+
+    {
+    "description": "Evaluation skills",
+        "meta": {
+        "kill_chain": [
+            "post-incident-crime:Judiciary"
+        ]
+        },
+        "uuid": "eb20a901-bac7-487a-92fb-be8dcd79eb39",
+        "value": "I (Judiciary) : Assessing incident damage and cost"
+},
+        
+
+    {
+    "description": "Evaluation skills",
+        "meta": {
+        "kill_chain": [
+            "post-incident-crime:Judiciary"
+        ]
+        },
+        "uuid": "cad562b6-4f14-4dba-b738-7da6b4fd9eec",
+        "value": "S (Judiciary) : Assessing incident damage and cost"
+},
+        
+
+    {
+    "description": "Evaluation skills",
+        "meta": {
+        "kill_chain": [
+            "post-incident-crime:Prosecutors"
+        ]
+        },
+        "uuid": "5db097cc-1a57-4fe2-8050-2a0e300a8801",
+        "value": "R (Prosecutors) : Assessing incident damage and cost"
+},
+        
+
+    {
+    "description": "Evaluation skills",
+        "meta": {
+        "kill_chain": [
+            "post-incident-crime:Prosecutors"
+        ]
+        },
+        "uuid": "5bb095c3-ede0-4f0f-a49b-06e08e9629e0",
+        "value": "C (Prosecutors) : Assessing incident damage and cost"
+},
+        
+
+    {
+    "description": "Evaluation skills",
+        "meta": {
+        "kill_chain": [
+            "post-incident-crime:Prosecutors"
+        ]
+        },
+        "uuid": "38561ada-355b-4283-9920-6789a3f3902d",
+        "value": "I (Prosecutors) : Assessing incident damage and cost"
+},
+        
+
+    {
+    "description": "Evaluation skills",
+        "meta": {
+        "kill_chain": [
+            "post-incident-crime:Prosecutors"
+        ]
+        },
+        "uuid": "9fee2503-1812-4a83-bb07-2562425d3774",
+        "value": "S (Prosecutors) : Assessing incident damage and cost"
+},
+        
+
+    {
+    "description": "Knowledge how to draft an incident response and procedures",
+        "meta": {
+        "kill_chain": [
+            "post-incident-crime:CSIRT"
+        ]
+        },
+        "uuid": "90ecf344-8131-4b0b-a345-3fb5769a2f41",
+        "value": "R (CSIRT) : Reviewing the response and update policies and procedures"
+},
+        
+
+    {
+    "description": "Knowledge how to draft an incident response and procedures",
+        "meta": {
+        "kill_chain": [
+            "post-incident-crime:CSIRT"
+        ]
+        },
+        "uuid": "23415e8d-5323-4d6d-8826-63a1071cdaf9",
+        "value": "C (CSIRT) : Reviewing the response and update policies and procedures"
+},
+        
+
+    {
+    "description": "Knowledge how to draft an incident response and procedures",
+        "meta": {
+        "kill_chain": [
+            "post-incident-crime:CSIRT"
+        ]
+        },
+        "uuid": "f5343d5a-c628-4fe2-8980-48d3fb25c5d3",
+        "value": "I (CSIRT) : Reviewing the response and update policies and procedures"
+},
+        
+
+    {
+    "description": "Knowledge how to draft an incident response and procedures",
+        "meta": {
+        "kill_chain": [
+            "post-incident-crime:CSIRT"
+        ]
+        },
+        "uuid": "107a8eb2-ef73-41f1-9eb8-cb88acd2ed87",
+        "value": "S (CSIRT) : Reviewing the response and update policies and procedures"
+}
+        
+
+                    ],
+                    "version": 1
+                }              
+                

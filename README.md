@@ -14,17 +14,14 @@ Run the script machinetag2human.py with input machinetag.json
 # SoD Matrix
 
 
+
 # Segregation (or separation) of Duties (SoD) Matrix for CSIRTs, LEA and Judiciary (human readable version)
-
 This is the Segregation (or separation) of Duties (SoD) Matrix for CSIRTs, LEA and Judiciary.
-
 This SoD is also available as a [MISP taxonomy](https://github.com/MISP/misp-taxonomies).
-
 See [An overview on enhancing technical cooperation between CSIRTs and LE](https://www.enisa.europa.eu/publications/support-the-fight-against-cybercrime-tools-for-enhancing-cooperation-between-csirts-and-le)
-
 Version: 1
 Generated from machine readable version. Please **DO NOT** edit this file directly in github, rather use the machinetag.json file.
-| Phase                               | Cybercrime Fighting Activities      | CSIRT | LEA | Judge | Prosec | Training topcis |
+| Phase                               | Cybercrime Fighting Activities      | CSIRT | LEA | Judge | Prosec | Training topics |
 |-----------------------------------  |-----------------------------------  | :---: | :---: | :---: | :---: |-----------|
 | Prior to incident/crime | Delivering training | x | x | x  | x | Problem-solving and critical thinking skills |
 | Prior to incident/crime | Participating in training | x | x | x  | x | Problem-solving and critical thinking skills |
@@ -57,5 +54,3 @@ Generated from machine readable version. Please **DO NOT** edit this file direct
 | Post incident/crime | Judging who committed a crime |  |  | x  |  | Technical knowledge and knowledge of the legal framework |
 | Post incident/crime | Assessing incident damage and cost | x | x | x  | x | Evaluation skills |
 | Post incident/crime | Reviewing the response and update policies and procedures | x |  |   |  | Knowledge how to draft an incident response and procedures |
-
-

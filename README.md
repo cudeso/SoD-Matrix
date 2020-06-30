@@ -6,14 +6,33 @@ This SoD is also available as a [MISP taxonomy](https://github.com/MISP/misp-tax
 
 See [An overview on enhancing technical cooperation between CSIRTs and LE](https://www.enisa.europa.eu/publications/support-the-fight-against-cybercrime-tools-for-enhancing-cooperation-between-csirts-and-le)
 
+# Format
+
+The SoD is build from the machinetag.json file. There are three **phases** (prior-to-incident-crime, during-the-incident-crime and post-incident-crime) and four **actors** (CSIRT, LEA, Judiciary and Prosecutors).
+
+The SoD matrix uses a flavor of COBIT5 to assign **roles* (R-Responsible, C-Consulted, S-Supporting, I-informed, the A is not assigned).
+
+The JSON file only assigns a generic role with 'x', without determing the exact role (R,C,S,I). There is one entry per "x" added in the galaxy. Meaning that if there is an "x" for an actor CSIRT for a specific duty, you will find an entry with "R, C, S and I".
+
+# Conversion
+
 ## Create the table
 
 Run the script machinetag2human.py with input machinetag.json
-```python3 machinetag2human.py machinetag.json > sod.md```
+```python3 machinetag2human.py machinetag.json md```
+
+## Create the MISP Galaxy and Clusters
+
+Run the script machinetag2human.py with input machinetag.json
+```python3 machinetag2human.py machinetag.json galaxy```
+
+# MISP example
+
+![Prior to crime](prior-crime.jpg)
+![During crime](during-crime.jpg)
+![Post crime](post-crime.jpg)
 
 # SoD Matrix
-
-
 
 # Segregation (or separation) of Duties (SoD) Matrix for CSIRTs, LEA and Judiciary (human readable version)
 This is the Segregation (or separation) of Duties (SoD) Matrix for CSIRTs, LEA and Judiciary.

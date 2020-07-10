@@ -1,18 +1,36 @@
 # SoD-Matrix : Segregation (or separation) of Duties (SoD) Matrix for CSIRTs, LEA and Judiciary
 
-This is the Segregation (or separation) of Duties (SoD) Matrix for CSIRTs, LEA and Judiciary.
+This is the Segregation (or separation) of Duties (SoD) Matrix for CSIRTs, LEA and Judiciary. See [An overview on enhancing technical cooperation between CSIRTs and LE](https://www.enisa.europa.eu/publications/support-the-fight-against-cybercrime-tools-for-enhancing-cooperation-between-csirts-and-le).
 
-This SoD is also available as a [MISP taxonomy](https://github.com/MISP/misp-taxonomies). Compared to a "normal" taxonomy, the actor list from the ENISA SoD table (csirt, lea, judge, prosec) is added to the definition.  
-
-See [An overview on enhancing technical cooperation between CSIRTs and LE](https://www.enisa.europa.eu/publications/support-the-fight-against-cybercrime-tools-for-enhancing-cooperation-between-csirts-and-le)
+The SoD matrix is made available in 
+* JSON: a machine readable format (JSON) : ```machinetag.json```
+* MD: a human deable format (MD) : ```sod.md```
+* Galaxy/Cluster: a format usable by [MISP](https://www.misp-project.org/) : ```galaxies_sod-matrix.json and clusters_sod-matrix.json```
 
 # Format
 
-The SoD is build from the machinetag.json file. There are three **phases** (prior-to-incident-crime, during-the-incident-crime and post-incident-crime) and four **actors** (CSIRT, LEA, Judiciary and Prosecutors).
+The SoD is build from the machinetag.json file. There are three **phases** (prior-to-incident-crime, during-the-incident-crime and post-incident-crime) and four **actors** (CSIRT, LEA, Judiciary and Prosecutors). Each phase consists of multiple **duties**. 
 
-The SoD matrix uses a flavor of COBIT5 to assign **roles* (R-Responsible, C-Consulted, S-Supporting, I-informed, the A is not assigned).
+The SoD matrix uses a flavor of COBIT5 to assign **roles** (R-Responsible, C-Consulted, S-Supporting, I-informed, the A is not assigned).
 
-The JSON file only assigns a generic role with 'x', without determing the exact role (R,C,S,I). There is one entry per "x" added in the galaxy. Meaning that if there is an "x" for an actor CSIRT for a specific duty, you will find an entry with "R, C, S and I".
+Because each country or constituency can have their own interpretation of the roles and duties per actors, the JSON file assigns a generic role with 'x', without determing the exact role (R,C,S,I). During the conversion from machinetag to the MISP galaxy, entries for all the roles (meaning R, C, S and I) are included.
+
+## Indicative examples
+
+The tasks and ticks in the SoD matrix are for now **indicative examples**.
+
+## Summary
+
+* JSON, machine reabable: only generic roles (with x) per duties
+* MISP Galaxy: MISP readable, all roles (RCSI) per duties
+
+# Updating the table
+
+1. Change machinetag.json
+1. Run the conversion script, create the MD version for human readable or the Galaxy version for MISP galaxy (or both)
+1. If MISP, remove the last comma in the cluster file
+1. Copy the file into MISP 
+1. Update Galaxies in MISP
 
 # Conversion
 
@@ -26,11 +44,18 @@ Run the script machinetag2human.py with input machinetag.json
 Run the script machinetag2human.py with input machinetag.json
 ```python3 machinetag2human.py machinetag.json galaxy```
 
+!! *After the conversion*, you need to remove the last comman in the cluster file.
+
+Copy the files into your MISP installation and then update the Galaxies in MISP.
+
+
+    cp clusters_sod-matrix.json /var/www/MISP/app/files/misp-galaxy/clusters/sod-matrix-reverse.json
+    cp galaxies_sod-matrix.json /var/www/MISP/app/files/misp-galaxy/galaxies/sod-matrix-reverse.json
+
+
 # MISP example
 
 ![Prior to crime](prior-crime.jpg)
-![During crime](during-crime.jpg)
-![Post crime](post-crime.jpg)
 
 # SoD Matrix
 

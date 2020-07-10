@@ -51,7 +51,7 @@ Generated from machine readable version. Please **DO NOT** edit this file direct
         "category": "sod-matrix",
         "description": "SOD Matrix",
         "name": "sod-matrix",
-        "source": "https://TEST",
+        "source": "https://github.com/cudeso/SoD-Matrix",
         "type": "sod-matrix",
         "uuid": "%s",
         "values": [
@@ -137,9 +137,9 @@ def print_cluster(el_d, el_pred, el_uuid, el_value, el_actor, el_resp):
         ]
         },
         "uuid": "%s",
-        "value": "%s (%s) : %s"
+        "value": "%s - %s - [%s]"
 },
-        """ % (el_d, el_pred, el_actor, el_uuid, el_resp, el_actor, el_value))
+        """ % (el_d, el_pred, el_actor, el_uuid, el_value, el_actor, el_resp))
     f.write("\n")
 
 def print_galaxy(data):

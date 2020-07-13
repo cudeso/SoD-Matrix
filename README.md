@@ -5,7 +5,7 @@ This is the Segregation (or separation) of Duties (SoD) Matrix for CSIRTs, LEA a
 The SoD matrix is made available in 
 * JSON: a machine readable format (JSON) : ```machinetag.json```
 * MD: a human deable format (MD) : ```sod.md```
-* Galaxy/Cluster: a format usable by [MISP](https://www.misp-project.org/) : ```galaxies_sod-matrix.json and clusters_sod-matrix.json```
+* Galaxy/Cluster: a format usable by [MISP](https://www.misp-project.org/) : ```galaxies_sod-matrix.json and clusters_sod-matrix.json``` ; available under MISP [galaxy](https://github.com/MISP/misp-galaxy/blob/main/galaxies/sod-matrix.json) and [cluser](https://github.com/MISP/misp-galaxy/blob/main/clusters/sod-matrix.json).
 
 # Format
 

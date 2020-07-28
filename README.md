@@ -12,7 +12,7 @@ The SoD matrix is made available in
 The SoD is build from the machinetag.json file. There are three **phases** (prior-to-incident-crime, during-the-incident-crime and post-incident-crime) and four **actors** (CSIRT, LEA, Judiciary and Prosecutors). Each phase consists of multiple **duties**. 
 
 ## RSCI - COBIT5
-The RSCI method used to fill in the SoD matrix is inspired by COBIT5 and is used to assign **roles** (R-Responsible, C-Consulted, S-Supporting, I-informed, the A is not assigned).
+The RSCI method used to fill in the SoD matrix is inspired by COBIT5 methodology in particular the RACI Charts and is used to assign the four following roles (R-Responsible, C-Consulted, S-Supporting, I-informed) to CSIRT, LE and judiciary communities when they perform their duties during the cybercrime investigation lifecycle phases. It should be noted that when CSIRTs/LE/Prosecutors/Judges are responsible (R) for a specific duty, this means that they are also accountable when performing this duty. More than one role can be assigned to each community for describing the performance of their duties.
 
 Because each country or constituency can have their own interpretation of the roles and duties per actors, the JSON file assigns a generic role with 'x', without determing the exact role (R,C,S,I). During the conversion from machinetag to the MISP galaxy, entries for all the roles (meaning R, C, S and I) are included.
 

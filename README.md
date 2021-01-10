@@ -1,3 +1,7 @@
+**The SoD Matrix is now stored in the [ENISA Github Repository](https://github.com/enisaeu/CSIRTLEA/tree/main/SoD-Matrix)**
+
+<hr />
+
 # SoD-Matrix : Segregation (or separation) of Duties (SoD) Matrix for CSIRTs, LEA and Judiciary
 
 This is the Segregation (or separation) of Duties (SoD) Matrix for CSIRTs, LEA and Judiciary. See [An overview on enhancing technical cooperation between CSIRTs and LE](https://www.enisa.europa.eu/publications/support-the-fight-against-cybercrime-tools-for-enhancing-cooperation-between-csirts-and-le).
